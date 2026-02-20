@@ -1,0 +1,1001 @@
+University,Course,Domain,Annual_Fee_INR,City,State_Province,Country,Region,Gender_Type,Website
+Indian Institute of Technology Madras,B.Tech Computer Science,Engineering & Technology,200000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.iitm.ac.in
+Indian Institute of Technology Madras,M.Tech AI & Data Science,Engineering & Technology,220000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.iitm.ac.in
+Indian Institute of Technology Madras,MBA,Management,350000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.iitm.ac.in
+Indian Institute of Science (IISc),B.S. Research,Science & Research,90000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iisc.ac.in
+Indian Institute of Science (IISc),M.Tech,Engineering & Technology,75000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iisc.ac.in
+Indian Institute of Science (IISc),Ph.D,Research,30000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iisc.ac.in
+National Institute of Technology Tiruchirappalli,B.Tech Civil,Engineering & Technology,150000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.nitt.edu
+National Institute of Technology Tiruchirappalli,B.Tech Electrical,Engineering & Technology,150000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.nitt.edu
+National Institute of Technology Tiruchirappalli,MBA,Management,200000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.nitt.edu
+Anna University,B.E. Mechanical,Engineering & Technology,80000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.annauniv.edu
+Anna University,B.Tech IT,Engineering & Technology,80000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.annauniv.edu
+Anna University,M.E. VLSI Design,Engineering & Technology,90000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.annauniv.edu
+Vellore Institute of Technology (VIT),B.Tech CSE,Engineering & Technology,198000,Vellore,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in
+Vellore Institute of Technology (VIT),B.Tech ECE,Engineering & Technology,198000,Vellore,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in
+Vellore Institute of Technology (VIT),MBA,Management,250000,Vellore,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in
+Vellore Institute of Technology (VIT),M.Tech Data Science,Engineering & Technology,160000,Vellore,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in
+SRM Institute of Science and Technology,B.Tech CSE,Engineering & Technology,210000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.srmist.edu.in
+SRM Institute of Science and Technology,B.Tech Biotech,Life Sciences,180000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.srmist.edu.in
+SRM Institute of Science and Technology,MBA,Management,280000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.srmist.edu.in
+Amrita Vishwa Vidyapeetham,B.Tech CSE,Engineering & Technology,185000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.amrita.edu
+Amrita Vishwa Vidyapeetham,M.Sc Cyber Security,Engineering & Technology,150000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.amrita.edu
+PSG College of Technology,B.E. CSE,Engineering & Technology,100000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.psgtech.edu
+PSG College of Technology,M.E. Industrial Engineering,Engineering & Technology,90000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.psgtech.edu
+Coimbatore Institute of Technology,B.E. Mechanical,Engineering & Technology,75000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.cit.edu.in
+Sri Venkateswara University,B.Tech CSE,Engineering & Technology,60000,Tirupati,Andhra Pradesh,India,South India,Co-Ed,https://www.svuniversity.edu.in
+Sri Venkateswara University,MBA,Management,75000,Tirupati,Andhra Pradesh,India,South India,Co-Ed,https://www.svuniversity.edu.in
+Andhra University,B.Tech Electronics,Engineering & Technology,55000,Visakhapatnam,Andhra Pradesh,India,South India,Co-Ed,https://www.andhrauniversity.edu.in
+Andhra University,M.Sc Marine Biology,Life Sciences,65000,Visakhapatnam,Andhra Pradesh,India,South India,Co-Ed,https://www.andhrauniversity.edu.in
+JNTU Hyderabad,B.Tech CSE,Engineering & Technology,75000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.jntuh.ac.in
+JNTU Hyderabad,B.Tech EEE,Engineering & Technology,75000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.jntuh.ac.in
+University of Hyderabad,M.Sc Physics,Science & Research,40000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.uohyd.ac.in
+University of Hyderabad,M.Phil Economics,Social Sciences,35000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.uohyd.ac.in
+Osmania University,B.Com,Commerce & Finance,30000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.osmania.ac.in
+Osmania University,M.A. Political Science,Social Sciences,28000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.osmania.ac.in
+Indian Institute of Technology Hyderabad,B.Tech AI,Engineering & Technology,200000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.iith.ac.in
+Manipal Academy of Higher Education,MBBS,Medicine & Health,1100000,Manipal,Karnataka,India,South India,Co-Ed,https://www.manipal.edu
+Manipal Academy of Higher Education,B.Tech CSE,Engineering & Technology,220000,Manipal,Karnataka,India,South India,Co-Ed,https://www.manipal.edu
+Manipal Academy of Higher Education,BDS,Medicine & Health,750000,Manipal,Karnataka,India,South India,Co-Ed,https://www.manipal.edu
+Bangalore University,B.Sc Computer Science,Science & Research,30000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.bangaloreuniversity.ac.in
+Bangalore University,MBA,Management,80000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.bangaloreuniversity.ac.in
+PESIT Bengaluru,B.E. CSE,Engineering & Technology,150000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.pes.edu
+PESIT Bengaluru,M.Tech Machine Learning,Engineering & Technology,180000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.pes.edu
+RV College of Engineering,B.E. CSE,Engineering & Technology,120000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.rvce.edu.in
+National Law School of India University,B.A. LLB,Law,225000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.nls.ac.in
+Christ University,BBA,Management,110000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.christuniversity.in
+Christ University,B.Com (Finance),Commerce & Finance,90000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.christuniversity.in
+Christ University,M.Sc Data Science,Engineering & Technology,150000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.christuniversity.in
+Symbiosis Institute of Business Management Pune,MBA,Management,700000,Pune,Maharashtra,India,West India,Co-Ed,https://www.sibmpune.edu.in
+Kerala University,B.Tech CSE,Engineering & Technology,65000,Thiruvananthapuram,Kerala,India,South India,Co-Ed,https://www.keralauniversity.ac.in
+Kerala University,MBBS,Medicine & Health,600000,Thiruvananthapuram,Kerala,India,South India,Co-Ed,https://www.keralauniversity.ac.in
+Cochin University of Science and Technology,B.Tech Marine Engineering,Engineering & Technology,140000,Kochi,Kerala,India,South India,Co-Ed,https://www.cusat.ac.in
+Cochin University of Science and Technology,M.Tech CSE,Engineering & Technology,120000,Kochi,Kerala,India,South India,Co-Ed,https://www.cusat.ac.in
+NIT Calicut,B.Tech CSE,Engineering & Technology,150000,Kozhikode,Kerala,India,South India,Co-Ed,https://www.nitc.ac.in
+NIT Calicut,M.Tech Production,Engineering & Technology,130000,Kozhikode,Kerala,India,South India,Co-Ed,https://www.nitc.ac.in
+Karunya Institute of Technology,B.Tech Aerospace,Engineering & Technology,160000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.karunya.edu
+Madurai Kamaraj University,M.Sc Chemistry,Science & Research,25000,Madurai,Tamil Nadu,India,South India,Co-Ed,https://www.mkuniversity.ac.in
+Bharathidasan University,B.Sc Physics,Science & Research,22000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.bdu.ac.in
+Stella Maris College,B.Sc Mathematics,Science & Research,50000,Chennai,Tamil Nadu,India,South India,Women,https://www.stellamariscollege.edu.in
+Stella Maris College,M.A. English Literature,Arts & Humanities,45000,Chennai,Tamil Nadu,India,South India,Women,https://www.stellamariscollege.edu.in
+Ethiraj College for Women,B.Sc Computer Science,Science & Research,48000,Chennai,Tamil Nadu,India,South India,Women,https://www.ethirajcollege.edu.in
+Women's Christian College Chennai,B.A. Economics,Social Sciences,40000,Chennai,Tamil Nadu,India,South India,Women,https://www.wcc.edu.in
+Presidency College Chennai,B.Sc Statistics,Science & Research,15000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.presidencychennai.edu.in
+Loyola College Chennai,B.Com,Commerce & Finance,55000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.loyolachennai.edu.in
+Loyola College Chennai,B.Sc Visual Communication,Arts & Humanities,60000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.loyolachennai.edu.in
+IIT Delhi,B.Tech CSE,Engineering & Technology,200000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iitd.ac.in
+IIT Delhi,M.Tech Power Electronics,Engineering & Technology,210000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iitd.ac.in
+IIT Delhi,MBA (DMS),Management,400000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iitd.ac.in
+IIT Kanpur,B.Tech Aerospace,Engineering & Technology,200000,Kanpur,Uttar Pradesh,India,North India,Co-Ed,https://www.iitk.ac.in
+IIT Kanpur,M.Sc Mathematics,Science & Research,90000,Kanpur,Uttar Pradesh,India,North India,Co-Ed,https://www.iitk.ac.in
+IIT Roorkee,B.Tech Civil,Engineering & Technology,200000,Roorkee,Uttarakhand,India,North India,Co-Ed,https://www.iitr.ac.in
+IIT Roorkee,B.Arch,Architecture & Design,200000,Roorkee,Uttarakhand,India,North India,Co-Ed,https://www.iitr.ac.in
+Delhi University,B.A. (Hons) History,Arts & Humanities,20000,New Delhi,Delhi,India,North India,Co-Ed,https://www.du.ac.in
+Delhi University,B.Sc (Hons) Chemistry,Science & Research,22000,New Delhi,Delhi,India,North India,Co-Ed,https://www.du.ac.in
+Delhi University,LLB,Law,30000,New Delhi,Delhi,India,North India,Co-Ed,https://www.du.ac.in
+Jawaharlal Nehru University,M.A. International Relations,Social Sciences,15000,New Delhi,Delhi,India,North India,Co-Ed,https://www.jnu.ac.in
+Jawaharlal Nehru University,Ph.D. Linguistics,Arts & Humanities,12000,New Delhi,Delhi,India,North India,Co-Ed,https://www.jnu.ac.in
+Miranda House Delhi,B.A. (Hons) English,Arts & Humanities,18000,New Delhi,Delhi,India,North India,Women,https://www.mirandahouse.ac.in
+Lady Shri Ram College Delhi,B.Sc (Hons) Electronics,Engineering & Technology,20000,New Delhi,Delhi,India,North India,Women,https://www.lsr.edu.in
+Lady Shri Ram College Delhi,B.A. (Hons) Psychology,Social Sciences,20000,New Delhi,Delhi,India,North India,Women,https://www.lsr.edu.in
+Hindu College Delhi,B.Sc (Hons) Physics,Science & Research,18000,New Delhi,Delhi,India,North India,Men,https://www.hinducollege.ac.in
+BITS Pilani,B.E. CSE,Engineering & Technology,250000,Pilani,Rajasthan,India,North India,Co-Ed,https://www.bits-pilani.ac.in
+BITS Pilani,M.Sc. Biology,Life Sciences,180000,Pilani,Rajasthan,India,North India,Co-Ed,https://www.bits-pilani.ac.in
+BITS Pilani,MBA,Management,350000,Pilani,Rajasthan,India,North India,Co-Ed,https://www.bits-pilani.ac.in
+Panjab University,B.Tech IT,Engineering & Technology,80000,Chandigarh,Punjab,India,North India,Co-Ed,https://www.puchd.ac.in
+Panjab University,M.Pharm,Medicine & Health,65000,Chandigarh,Punjab,India,North India,Co-Ed,https://www.puchd.ac.in
+Amity University,B.Tech CSE (AI),Engineering & Technology,280000,Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.amity.edu
+Amity University,BBA,Management,180000,Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.amity.edu
+Amity University,B.Sc Nursing,Medicine & Health,150000,Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.amity.edu
+Aligarh Muslim University,B.Tech EEE,Engineering & Technology,70000,Aligarh,Uttar Pradesh,India,North India,Co-Ed,https://www.amu.ac.in
+Aligarh Muslim University,MBBS,Medicine & Health,250000,Aligarh,Uttar Pradesh,India,North India,Co-Ed,https://www.amu.ac.in
+Banaras Hindu University,B.Tech Mining,Engineering & Technology,60000,Varanasi,Uttar Pradesh,India,North India,Co-Ed,https://www.bhu.ac.in
+Banaras Hindu University,MBBS,Medicine & Health,150000,Varanasi,Uttar Pradesh,India,North India,Co-Ed,https://www.bhu.ac.in
+Banaras Hindu University,B.A. Sanskrit,Arts & Humanities,10000,Varanasi,Uttar Pradesh,India,North India,Co-Ed,https://www.bhu.ac.in
+NIT Warangal,B.Tech Metallurgy,Engineering & Technology,150000,Warangal,Telangana,India,South India,Co-Ed,https://www.nitw.ac.in
+NIT Warangal,M.Tech CSE,Engineering & Technology,140000,Warangal,Telangana,India,South India,Co-Ed,https://www.nitw.ac.in
+IIT Bombay,B.Tech Chemical,Engineering & Technology,200000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.iitb.ac.in
+IIT Bombay,M.Tech Nano Technology,Engineering & Technology,220000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.iitb.ac.in
+IIT Bombay,MBA (SJMSOM),Management,500000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.iitb.ac.in
+University of Mumbai,B.Sc Information Technology,Engineering & Technology,35000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.mu.ac.in
+University of Mumbai,B.Com,Commerce & Finance,25000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.mu.ac.in
+NMIMS Mumbai,MBA Pharma,Management,600000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.nmims.edu
+NMIMS Mumbai,B.Tech CSE,Engineering & Technology,300000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.nmims.edu
+SP Jain School of Global Management,BBA Global,Management,850000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.spjain.org
+Savitribai Phule Pune University,B.E. Mechanical,Engineering & Technology,70000,Pune,Maharashtra,India,West India,Co-Ed,https://www.unipune.ac.in
+Savitribai Phule Pune University,M.Sc Biotechnology,Life Sciences,65000,Pune,Maharashtra,India,West India,Co-Ed,https://www.unipune.ac.in
+College of Engineering Pune (COEP),B.E. Civil,Engineering & Technology,100000,Pune,Maharashtra,India,West India,Co-Ed,https://www.coep.org.in
+Nirma University,B.Tech Chemical,Engineering & Technology,175000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.nirmauni.ac.in
+Nirma University,MBA,Management,350000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.nirmauni.ac.in
+CEPT University,B.Arch,Architecture & Design,180000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.cept.ac.in
+Gujarat University,B.Pharm,Medicine & Health,50000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.gujaratuniversity.ac.in
+IIM Ahmedabad,MBA (PGP),Management,2300000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.iima.ac.in
+IIM Ahmedabad,Executive MBA,Management,3000000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.iima.ac.in
+Goa University,B.Sc Marine Science,Life Sciences,45000,Goa,Goa,India,West India,Co-Ed,https://www.unigoa.ac.in
+BITS Goa,B.E. Mechanical,Engineering & Technology,250000,Goa,Goa,India,West India,Co-Ed,https://www.bits-pilani.ac.in/goa
+IIT Kharagpur,B.Tech CSE,Engineering & Technology,200000,Kharagpur,West Bengal,India,East India,Co-Ed,https://www.iitkgp.ac.in
+IIT Kharagpur,M.Arch,Architecture & Design,180000,Kharagpur,West Bengal,India,East India,Co-Ed,https://www.iitkgp.ac.in
+Jadavpur University,B.E. Electronics,Engineering & Technology,40000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.jaduniv.edu.in
+Jadavpur University,M.Sc Pharmaceutical Chemistry,Medicine & Health,35000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.jaduniv.edu.in
+Calcutta University,B.Sc Statistics,Science & Research,18000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.caluniv.ac.in
+Calcutta University,M.A. Sociology,Social Sciences,15000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.caluniv.ac.in
+Presidency University Kolkata,B.Sc Physics,Science & Research,20000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.presiuniv.ac.in
+NIT Durgapur,B.Tech Chemical,Engineering & Technology,140000,Durgapur,West Bengal,India,East India,Co-Ed,https://www.nitdgp.ac.in
+Utkal University,M.A. Odia Literature,Arts & Humanities,12000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.utkaluniversity.ac.in
+NIT Rourkela,B.Tech Metallurgy,Engineering & Technology,140000,Rourkela,Odisha,India,East India,Co-Ed,https://www.nitrkl.ac.in
+NIT Rourkela,M.Tech CSE,Engineering & Technology,130000,Rourkela,Odisha,India,East India,Co-Ed,https://www.nitrkl.ac.in
+IIM Calcutta,MBA (PGP),Management,2700000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.iimcal.ac.in
+IIT Indore,B.Tech CSE,Engineering & Technology,200000,Indore,Madhya Pradesh,India,Central India,Co-Ed,https://www.iiti.ac.in
+Devi Ahilya University,B.Tech CSE,Engineering & Technology,70000,Indore,Madhya Pradesh,India,Central India,Co-Ed,https://www.dauniv.ac.in
+IIM Indore,MBA,Management,2200000,Indore,Madhya Pradesh,India,Central India,Co-Ed,https://www.iimidr.ac.in
+NIT Raipur,B.Tech Mining,Engineering & Technology,140000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.nitrr.ac.in
+IIT Guwahati,B.Tech CSE,Engineering & Technology,200000,Guwahati,Assam,India,North East India,Co-Ed,https://www.iitg.ac.in
+IIT Guwahati,M.Sc Physics,Science & Research,90000,Guwahati,Assam,India,North East India,Co-Ed,https://www.iitg.ac.in
+Tezpur University,B.Tech ECE,Engineering & Technology,80000,Tezpur,Assam,India,North East India,Co-Ed,https://www.tezu.ernet.in
+NIT Silchar,B.Tech Civil,Engineering & Technology,140000,Silchar,Assam,India,North East India,Co-Ed,https://www.nits.ac.in
+Gauhati University,M.Sc Biotechnology,Life Sciences,35000,Guwahati,Assam,India,North East India,Co-Ed,https://www.gauhati.ac.in
+IIM Bangalore,MBA (PGP),Management,2400000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iimb.ac.in
+IIM Bangalore,Executive MBA,Management,3200000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iimb.ac.in
+ISB Hyderabad,PGP (MBA),Management,4000000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.isb.edu
+XLRI Jamshedpur,MBA HR,Management,2400000,Jamshedpur,Jharkhand,India,East India,Co-Ed,https://www.xlri.ac.in
+MDI Gurgaon,PGPM,Management,2100000,Gurgaon,Haryana,India,North India,Co-Ed,https://www.mdi.ac.in
+FMS Delhi,MBA,Management,200000,New Delhi,Delhi,India,North India,Co-Ed,https://www.fms.edu
+AIIMS Delhi,MBBS,Medicine & Health,1390,New Delhi,Delhi,India,North India,Co-Ed,https://www.aiims.edu
+AIIMS Delhi,MD General Medicine,Medicine & Health,1200,New Delhi,Delhi,India,North India,Co-Ed,https://www.aiims.edu
+AIIMS Bangalore,MBBS,Medicine & Health,1390,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.aiimsbangalore.edu.in
+CMC Vellore,MBBS,Medicine & Health,85000,Vellore,Tamil Nadu,India,South India,Co-Ed,https://www.cmch-vellore.edu
+CMC Vellore,B.Sc Nursing,Medicine & Health,60000,Vellore,Tamil Nadu,India,South India,Women,https://www.cmch-vellore.edu
+JIPMER Puducherry,MBBS,Medicine & Health,5000,Puducherry,Puducherry,India,South India,Co-Ed,https://jipmer.edu.in
+Kasturba Medical College Manipal,MBBS,Medicine & Health,1400000,Manipal,Karnataka,India,South India,Co-Ed,https://www.manipal.edu/kmc-manipal
+NALSAR Hyderabad,B.A. LLB,Law,180000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.nalsar.ac.in
+NLU Delhi,B.A. LLB,Law,215000,New Delhi,Delhi,India,North India,Co-Ed,https://www.nludelhi.ac.in
+NUJS Kolkata,B.A. LLB,Law,190000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.nujs.edu
+NLU Jodhpur,B.A. LLB,Law,180000,Jodhpur,Rajasthan,India,North India,Co-Ed,https://www.nlujodhpur.ac.in
+National Institute of Design Ahmedabad,B.Des Industrial,Architecture & Design,250000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.nid.edu
+National Institute of Design Ahmedabad,M.Des Communication,Architecture & Design,220000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.nid.edu
+NID Bengaluru,B.Des Interaction,Architecture & Design,220000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.nid.edu/bengaluru
+IIT Bombay (IDC),M.Des Industrial,Architecture & Design,250000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.idc.iitb.ac.in
+Pearl Academy,B.Des Fashion,Architecture & Design,350000,New Delhi,Delhi,India,North India,Co-Ed,https://www.pearlacademy.com
+NIFT Delhi,B.Des Fashion Technology,Architecture & Design,200000,New Delhi,Delhi,India,North India,Co-Ed,https://nift.ac.in
+NIFT Chennai,B.Des Textile,Architecture & Design,190000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://nift.ac.in/chennai
+ACJ Chennai,PG Journalism,Media & Communication,350000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.acjchennai.com
+IIMC Delhi,PG Journalism,Media & Communication,85000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iimc.nic.in
+Symbiosis Institute of Media & Communication,B.Sc Mass Communication,Media & Communication,280000,Pune,Maharashtra,India,West India,Co-Ed,https://www.simc.edu
+Tamil Nadu Agricultural University,B.Sc Agriculture,Agriculture,55000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.tnau.ac.in
+G.B. Pant University of Agriculture,B.Sc Agriculture,Agriculture,45000,Pantnagar,Uttarakhand,India,North India,Co-Ed,https://www.gbpuat.ac.in
+IARI Delhi,M.Sc Agronomy,Agriculture,25000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iari.res.in
+Massachusetts Institute of Technology (MIT),B.S. Computer Science,Engineering & Technology,5759000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.mit.edu
+Massachusetts Institute of Technology (MIT),M.S. AI & Machine Learning,Engineering & Technology,6200000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.mit.edu
+Massachusetts Institute of Technology (MIT),MBA (Sloan),Management,8200000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.mit.edu
+Stanford University,B.S. Computer Science,Engineering & Technology,6000000,Stanford,California,USA,North America,Co-Ed,https://www.stanford.edu
+Stanford University,MBA (GSB),Management,9200000,Stanford,California,USA,North America,Co-Ed,https://www.stanford.edu
+Stanford University,M.S. Data Science,Engineering & Technology,6500000,Stanford,California,USA,North America,Co-Ed,https://www.stanford.edu
+Harvard University,B.A. Economics,Social Sciences,5900000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.harvard.edu
+Harvard University,MBA (HBS),Management,11000000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.harvard.edu
+Harvard University,MD,Medicine & Health,6800000,Cambridge,Massachusetts,USA,North America,Co-Ed,https://www.harvard.edu
+Carnegie Mellon University,B.S. Computer Science,Engineering & Technology,6100000,Pittsburgh,Pennsylvania,USA,North America,Co-Ed,https://www.cmu.edu
+Carnegie Mellon University,M.S. Robotics,Engineering & Technology,5800000,Pittsburgh,Pennsylvania,USA,North America,Co-Ed,https://www.cmu.edu
+UC Berkeley,B.S. Electrical Engineering,Engineering & Technology,4400000,Berkeley,California,USA,North America,Co-Ed,https://www.berkeley.edu
+UC Berkeley,MBA (Haas),Management,7500000,Berkeley,California,USA,North America,Co-Ed,https://www.berkeley.edu
+University of Michigan,B.S. Mechanical Engineering,Engineering & Technology,5200000,Ann Arbor,Michigan,USA,North America,Co-Ed,https://www.umich.edu
+Georgia Tech,M.S. Computer Science (OMSCS),Engineering & Technology,700000,Atlanta,Georgia,USA,North America,Co-Ed,https://www.gatech.edu
+Georgia Tech,B.S. Industrial Engineering,Engineering & Technology,3800000,Atlanta,Georgia,USA,North America,Co-Ed,https://www.gatech.edu
+Columbia University,M.S. Financial Engineering,Commerce & Finance,7000000,New York,New York,USA,North America,Co-Ed,https://www.columbia.edu
+New York University (Stern),MBA,Management,8500000,New York,New York,USA,North America,Co-Ed,https://www.stern.nyu.edu
+University of Texas Austin,B.S. Computer Science,Engineering & Technology,2800000,Austin,Texas,USA,North America,Co-Ed,https://www.utexas.edu
+Purdue University,B.S. Aeronautical Engineering,Engineering & Technology,3300000,West Lafayette,Indiana,USA,North America,Co-Ed,https://www.purdue.edu
+Arizona State University,B.S. Sustainability,Science & Research,2500000,Tempe,Arizona,USA,North America,Co-Ed,https://www.asu.edu
+University of Illinois Urbana-Champaign,B.S. Computer Science,Engineering & Technology,4200000,Champaign,Illinois,USA,North America,Co-Ed,https://www.illinois.edu
+Johns Hopkins University,MPH Public Health,Medicine & Health,6500000,Baltimore,Maryland,USA,North America,Co-Ed,https://www.jhu.edu
+Yale University,LLM,Law,7200000,New Haven,Connecticut,USA,North America,Co-Ed,https://www.yale.edu
+Yale University,B.A. Political Science,Social Sciences,5800000,New Haven,Connecticut,USA,North America,Co-Ed,https://www.yale.edu
+Princeton University,B.S. Mathematics,Science & Research,6000000,Princeton,New Jersey,USA,North America,Co-Ed,https://www.princeton.edu
+University of Oxford,"B.A. Philosophy, Politics & Economics",Social Sciences,19000000,Oxford,England,United Kingdom,Europe,Co-Ed,https://www.ox.ac.uk
+University of Oxford,MBA (Said),Management,11000000,Oxford,England,United Kingdom,Europe,Co-Ed,https://www.ox.ac.uk
+University of Oxford,M.Sc Computer Science,Engineering & Technology,5800000,Oxford,England,United Kingdom,Europe,Co-Ed,https://www.ox.ac.uk
+University of Cambridge,B.A./M.Eng Engineering,Engineering & Technology,19000000,Cambridge,England,United Kingdom,Europe,Co-Ed,https://www.cam.ac.uk
+University of Cambridge,MBA (Judge),Management,10500000,Cambridge,England,United Kingdom,Europe,Co-Ed,https://www.cam.ac.uk
+Imperial College London,B.Eng Mechanical Engineering,Engineering & Technology,5000000,London,England,United Kingdom,Europe,Co-Ed,https://www.imperial.ac.uk
+Imperial College London,M.Sc Data Science,Engineering & Technology,5500000,London,England,United Kingdom,Europe,Co-Ed,https://www.imperial.ac.uk
+University College London (UCL),B.Sc Computer Science,Engineering & Technology,4600000,London,England,United Kingdom,Europe,Co-Ed,https://www.ucl.ac.uk
+University College London (UCL),LLM,Law,5200000,London,England,United Kingdom,Europe,Co-Ed,https://www.ucl.ac.uk
+London School of Economics (LSE),B.Sc Economics,Social Sciences,4800000,London,England,United Kingdom,Europe,Co-Ed,https://www.lse.ac.uk
+London School of Economics (LSE),MSc Finance,Commerce & Finance,5600000,London,England,United Kingdom,Europe,Co-Ed,https://www.lse.ac.uk
+University of Edinburgh,B.Sc Artificial Intelligence,Engineering & Technology,3500000,Edinburgh,Scotland,United Kingdom,Europe,Co-Ed,https://www.ed.ac.uk
+King's College London,MBBS,Medicine & Health,5200000,London,England,United Kingdom,Europe,Co-Ed,https://www.kcl.ac.uk
+University of Manchester,B.Eng Chemical Engineering,Engineering & Technology,3500000,Manchester,England,United Kingdom,Europe,Co-Ed,https://www.manchester.ac.uk
+University of Warwick,B.Sc Mathematics,Science & Research,3300000,Coventry,England,United Kingdom,Europe,Co-Ed,https://www.warwick.ac.uk
+University of Toronto,B.Sc Computer Science,Engineering & Technology,3000000,Toronto,Ontario,Canada,North America,Co-Ed,https://www.utoronto.ca
+University of Toronto,MBA (Rotman),Management,6200000,Toronto,Ontario,Canada,North America,Co-Ed,https://www.utoronto.ca
+McGill University,B.Eng Electrical,Engineering & Technology,2200000,Montreal,Quebec,Canada,North America,Co-Ed,https://www.mcgill.ca
+McGill University,MBBS/MD,Medicine & Health,3000000,Montreal,Quebec,Canada,North America,Co-Ed,https://www.mcgill.ca
+University of British Columbia,B.Sc Data Science,Engineering & Technology,2800000,Vancouver,British Columbia,Canada,North America,Co-Ed,https://www.ubc.ca
+University of Waterloo,B.Sc Computer Science (Co-op),Engineering & Technology,2700000,Waterloo,Ontario,Canada,North America,Co-Ed,https://www.uwaterloo.ca
+University of Waterloo,B.Eng Mechatronics,Engineering & Technology,2700000,Waterloo,Ontario,Canada,North America,Co-Ed,https://www.uwaterloo.ca
+York University,B.B.A,Management,1800000,Toronto,Ontario,Canada,North America,Co-Ed,https://www.yorku.ca
+University of Melbourne,B.Sc Engineering,Engineering & Technology,3300000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.unimelb.edu.au
+University of Melbourne,MBA,Management,4800000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.unimelb.edu.au
+Australian National University,B.Sc Computer Science,Engineering & Technology,3000000,Canberra,ACT,Australia,Oceania,Co-Ed,https://www.anu.edu.au
+University of Sydney,B.Eng Software,Engineering & Technology,3200000,Sydney,New South Wales,Australia,Oceania,Co-Ed,https://www.sydney.edu.au
+University of New South Wales,B.Eng Aerospace,Engineering & Technology,3200000,Sydney,New South Wales,Australia,Oceania,Co-Ed,https://www.unsw.edu.au
+Monash University,MBBS,Medicine & Health,4000000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.monash.edu
+University of Queensland,B.Sc Biotechnology,Life Sciences,2800000,Brisbane,Queensland,Australia,Oceania,Co-Ed,https://www.uq.edu.au
+Technical University of Munich (TUM),B.Sc Computer Science,Engineering & Technology,100000,Munich,Bavaria,Germany,Europe,Co-Ed,https://www.tum.de
+Technical University of Munich (TUM),M.Sc Robotics,Engineering & Technology,100000,Munich,Bavaria,Germany,Europe,Co-Ed,https://www.tum.de
+RWTH Aachen University,B.Sc Mechanical Engineering,Engineering & Technology,80000,Aachen,NRW,Germany,Europe,Co-Ed,https://www.rwth-aachen.de
+RWTH Aachen University,M.Sc Automotive Engineering,Engineering & Technology,80000,Aachen,NRW,Germany,Europe,Co-Ed,https://www.rwth-aachen.de
+Heidelberg University,M.Sc Physics,Science & Research,150000,Heidelberg,Baden-Württemberg,Germany,Europe,Co-Ed,https://www.uni-heidelberg.de
+Mannheim University,MBA,Management,3500000,Mannheim,Baden-Württemberg,Germany,Europe,Co-Ed,https://www.uni-mannheim.de
+National University of Singapore,B.Sc Computer Science,Engineering & Technology,2700000,Singapore,Singapore,Singapore,Asia,Co-Ed,https://www.nus.edu.sg
+National University of Singapore,MBA,Management,6000000,Singapore,Singapore,Singapore,Asia,Co-Ed,https://www.nus.edu.sg
+Nanyang Technological University,B.Eng Computer Engineering,Engineering & Technology,2500000,Singapore,Singapore,Singapore,Asia,Co-Ed,https://www.ntu.edu.sg
+Nanyang Technological University,M.Sc Data Science,Engineering & Technology,3000000,Singapore,Singapore,Singapore,Asia,Co-Ed,https://www.ntu.edu.sg
+University of Tokyo,B.Eng Engineering,Engineering & Technology,800000,Tokyo,Kanto,Japan,Asia,Co-Ed,https://www.u-tokyo.ac.jp
+Osaka University,M.Sc Chemistry,Science & Research,700000,Osaka,Kinki,Japan,Asia,Co-Ed,https://www.osaka-u.ac.jp
+Tokyo Institute of Technology,M.Sc AI,Engineering & Technology,850000,Tokyo,Kanto,Japan,Asia,Co-Ed,https://www.titech.ac.jp
+Peking University,B.Sc Economics,Social Sciences,500000,Beijing,Beijing,China,Asia,Co-Ed,https://www.pku.edu.cn
+Tsinghua University,B.Eng Computer Science,Engineering & Technology,550000,Beijing,Beijing,China,Asia,Co-Ed,https://www.tsinghua.edu.cn
+Fudan University,MBA,Management,2000000,Shanghai,Shanghai,China,Asia,Co-Ed,https://www.fudan.edu.cn
+Delft University of Technology,M.Sc Aerospace Engineering,Engineering & Technology,2200000,Delft,South Holland,Netherlands,Europe,Co-Ed,https://www.tudelft.nl
+University of Amsterdam,M.Sc Artificial Intelligence,Engineering & Technology,2200000,Amsterdam,North Holland,Netherlands,Europe,Co-Ed,https://www.uva.nl
+Erasmus University Rotterdam,M.Sc Finance,Commerce & Finance,2800000,Rotterdam,South Holland,Netherlands,Europe,Co-Ed,https://www.eur.nl
+University of Dubai,MBA,Management,1200000,Dubai,Dubai,UAE,Middle East,Co-Ed,https://www.ud.ac.ae
+Khalifa University,B.Eng Petroleum Engineering,Engineering & Technology,0,Abu Dhabi,Abu Dhabi,UAE,Middle East,Co-Ed,https://www.ku.ac.ae
+HEC Paris,MBA,Management,9000000,Jouy-en-Josas,Île-de-France,France,Europe,Co-Ed,https://www.hec.edu
+Ecole Polytechnique,M.Sc Engineering,Engineering & Technology,2800000,Palaiseau,Île-de-France,France,Europe,Co-Ed,https://www.polytechnique.edu
+ETH Zurich,M.Sc Computer Science,Engineering & Technology,1100000,Zurich,Zurich,Switzerland,Europe,Co-Ed,https://www.ethz.ch
+ETH Zurich,M.Sc Data Science,Engineering & Technology,1100000,Zurich,Zurich,Switzerland,Europe,Co-Ed,https://www.ethz.ch
+KTH Royal Institute of Technology,M.Sc Machine Learning,Engineering & Technology,800000,Stockholm,Stockholm,Sweden,Europe,Co-Ed,https://www.kth.se
+IIIT Hyderabad,B.Tech CSE,Engineering & Technology,350000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.iiit.ac.in
+IIIT Hyderabad,M.Tech AI,Engineering & Technology,300000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.iiit.ac.in
+IIIT Bangalore,M.Tech Software Engineering,Engineering & Technology,550000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.iiitb.ac.in
+Thapar Institute of Engineering,B.E. CSE,Engineering & Technology,225000,Patiala,Punjab,India,North India,Co-Ed,https://www.thapar.edu
+Thapar Institute of Engineering,M.E. Structural Engineering,Engineering & Technology,190000,Patiala,Punjab,India,North India,Co-Ed,https://www.thapar.edu
+Lovely Professional University,B.Tech CSE,Engineering & Technology,160000,Phagwara,Punjab,India,North India,Co-Ed,https://www.lpu.in
+Lovely Professional University,BBA,Management,120000,Phagwara,Punjab,India,North India,Co-Ed,https://www.lpu.in
+Chandigarh University,B.Tech CSE,Engineering & Technology,170000,Chandigarh,Punjab,India,North India,Co-Ed,https://www.cuchd.in
+Shiv Nadar University,B.Tech CSE,Engineering & Technology,300000,Greater Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.snu.edu.in
+Ashoka University,B.A. Economics,Social Sciences,850000,Sonipat,Haryana,India,North India,Co-Ed,https://www.ashoka.edu.in
+Ashoka University,B.Sc Computer Science,Engineering & Technology,850000,Sonipat,Haryana,India,North India,Co-Ed,https://www.ashoka.edu.in
+Azim Premji University,B.A. Education,Social Sciences,150000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.azimpremjiuniversity.edu.in
+Krea University,B.Sc Interdisciplinary,Science & Research,400000,Sri City,Andhra Pradesh,India,South India,Co-Ed,https://www.krea.edu.in
+Alliance University,B.Tech CSE,Engineering & Technology,240000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.alliance.edu.in
+Alliance University,MBA,Management,450000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.alliance.edu.in
+KIIT University,B.Tech Mechanical,Engineering & Technology,180000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.kiit.ac.in
+KIIT University,MBA,Management,250000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.kiit.ac.in
+SASTRA University,B.Tech EEE,Engineering & Technology,140000,Thanjavur,Tamil Nadu,India,South India,Co-Ed,https://www.sastra.edu
+Sathyabama University,B.Tech Aerospace,Engineering & Technology,150000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.sathyabama.ac.in
+Vel Tech University,B.Tech Robotics,Engineering & Technology,120000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.veltech.edu.in
+Hindustan Institute of Technology,B.Tech Aeronautical,Engineering & Technology,140000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.hindustanuniv.ac.in
+Sri Ramachandra University,MBBS,Medicine & Health,1000000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.sriramachandra.edu.in
+Saveetha University,BDS,Medicine & Health,550000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.saveetha.com
+SRM Medical College,MBBS,Medicine & Health,1200000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.srmmedicalcollege.ac.in
+Pondicherry University,M.Sc Computer Science,Engineering & Technology,40000,Puducherry,Puducherry,India,South India,Co-Ed,https://www.pondiuni.edu.in
+Pondicherry University,MBA,Management,65000,Puducherry,Puducherry,India,South India,Co-Ed,https://www.pondiuni.edu.in
+Alagappa University,M.Sc Software Engineering,Engineering & Technology,35000,Karaikudi,Tamil Nadu,India,South India,Co-Ed,https://www.alagappauniversity.ac.in
+Periyar University,B.Sc Computer Science,Science & Research,20000,Salem,Tamil Nadu,India,South India,Co-Ed,https://www.periyaruniversity.ac.in
+Jai Hind College Mumbai,BMS,Management,85000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.jaihindcollege.com
+Narsee Monjee Institute,MBA,Management,800000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.nmims.edu
+S.P. College Pune,B.Sc Physics,Science & Research,25000,Pune,Maharashtra,India,West India,Co-Ed,https://www.spcollege.in
+Fergusson College Pune,B.Sc Computer Science,Science & Research,28000,Pune,Maharashtra,India,West India,Co-Ed,https://www.fergusson.edu
+XLRI Jamshedpur,MBA Finance,Management,2400000,Jamshedpur,Jharkhand,India,East India,Co-Ed,https://www.xlri.ac.in
+IIM Kozhikode,MBA,Management,2100000,Kozhikode,Kerala,India,South India,Co-Ed,https://www.iimk.ac.in
+IIM Trichy,MBA,Management,1500000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.iimtrichy.ac.in
+IIM Lucknow,MBA (PGP),Management,1900000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.iiml.ac.in
+XLRI Jamshedpur,MBA BM,Management,2450000,Jamshedpur,Jharkhand,India,East India,Co-Ed,https://www.xlri.ac.in
+SPJIMR Mumbai,PGDM,Management,2100000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.spjimr.org
+TAPMI Manipal,MBA,Management,1400000,Manipal,Karnataka,India,South India,Co-Ed,https://www.tapmi.edu.in
+Great Lakes Institute of Management,PGDM,Management,1800000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.greatlakes.edu.in
+MIT Pune,B.E. CSE,Engineering & Technology,130000,Pune,Maharashtra,India,West India,Co-Ed,https://www.mitpune.edu.in
+Symbiosis Institute of Technology Pune,B.Tech CSE,Engineering & Technology,190000,Pune,Maharashtra,India,West India,Co-Ed,https://www.sitpune.edu.in
+Pune Institute of Computer Technology,B.E. CSE,Engineering & Technology,110000,Pune,Maharashtra,India,West India,Co-Ed,https://www.pict.edu
+Seoul National University,B.S. Computer Science,Engineering & Technology,400000,Seoul,Seoul,South Korea,Asia,Co-Ed,https://www.snu.ac.kr
+KAIST,M.S. AI,Engineering & Technology,300000,Daejeon,Chungcheong,South Korea,Asia,Co-Ed,https://www.kaist.ac.kr
+University of Hong Kong,B.B.A.,Management,1800000,Hong Kong,Hong Kong,Hong Kong,Asia,Co-Ed,https://www.hku.hk
+HKUST,M.Sc Data Science,Engineering & Technology,2200000,Hong Kong,Hong Kong,Hong Kong,Asia,Co-Ed,https://www.ust.hk
+University of Auckland,B.Sc Computer Science,Engineering & Technology,2200000,Auckland,Auckland,New Zealand,Oceania,Co-Ed,https://www.auckland.ac.nz
+University of Cape Town,B.Eng Chemical,Engineering & Technology,900000,Cape Town,Western Cape,South Africa,Africa,Co-Ed,https://www.uct.ac.za
+INSEAD,MBA,Management,12000000,Fontainebleau,Île-de-France,France,Europe,Co-Ed,https://www.insead.edu
+WHU Otto Beisheim,MBA,Management,4200000,Vallendar,Rhineland-Palatinate,Germany,Europe,Co-Ed,https://www.whu.edu
+Bocconi University,B.Sc Economics & Management,Commerce & Finance,1500000,Milan,Lombardy,Italy,Europe,Co-Ed,https://www.unibocconi.eu
+IE Business School,MBA,Management,8800000,Madrid,Madrid,Spain,Europe,Co-Ed,https://www.ie.edu
+PSG Arts & Science College,B.Sc Mathematics,Science & Research,45000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.psgcas.ac.in
+PSG Arts & Science College,M.Sc Biochemistry,Life Sciences,50000,Coimbatore,Tamil Nadu,India,South India,Women,https://www.psgcas.ac.in
+Kongu Engineering College,B.E. CSE,Engineering & Technology,85000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.kongu.edu
+K.S.Rangasamy College of Technology,B.E. Mechanical,Engineering & Technology,70000,Namakkal,Tamil Nadu,India,South India,Co-Ed,https://www.ksrct.ac.in
+Bannari Amman Institute of Technology,B.E. ECE,Engineering & Technology,80000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.bitsathy.ac.in
+Sri Krishna College of Engineering,B.E. CSE,Engineering & Technology,90000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.skcet.ac.in
+Sri Eshwar College of Engineering,B.E. Mechanical,Engineering & Technology,80000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.sece.ac.in
+Karpagam Academy of Higher Education,B.Tech Biotechnology,Life Sciences,70000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://karpagamuniv.com
+SNS College of Technology,B.E. IT,Engineering & Technology,75000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.snsct.org
+Kumaraguru College of Technology,B.E. CSE,Engineering & Technology,95000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.kct.ac.in
+Thiagarajar College of Engineering,B.E. EEE,Engineering & Technology,80000,Madurai,Tamil Nadu,India,South India,Co-Ed,https://www.tce.edu
+Mepco Schlenk Engineering College,B.E. CSE,Engineering & Technology,70000,Sivakasi,Tamil Nadu,India,South India,Men,https://www.mepcoeng.ac.in
+Pandian Saraswathi Yadav Engineering College,B.E. Mechanical,Engineering & Technology,65000,Sivaganga,Tamil Nadu,India,South India,Co-Ed,https://www.psyec.ac.in
+Sethu Institute of Technology,B.E. Civil,Engineering & Technology,60000,Virudhunagar,Tamil Nadu,India,South India,Co-Ed,https://www.sethu.ac.in
+Noorul Islam University,B.Tech CSE,Engineering & Technology,90000,Kanyakumari,Tamil Nadu,India,South India,Co-Ed,https://www.niuniv.com
+Jeppiaar Engineering College,B.E. EEE,Engineering & Technology,90000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.jeppiaar.ac.in
+Rajalakshmi Engineering College,B.E. CSE,Engineering & Technology,100000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.rajalakshmi.org
+Easwari Engineering College,B.E. Mechanical,Engineering & Technology,85000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.eec.srmgroup.in
+Panimalar Engineering College,B.E. ECE,Engineering & Technology,95000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.panimalar.ac.in
+St. Joseph's College of Engineering,B.E. IT,Engineering & Technology,110000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.stjosephs.ac.in
+Velammal Engineering College,B.E. CSE,Engineering & Technology,105000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.velammal.edu.in
+Misrimal Navajee Munoth Jain Engineering College,B.E. ECE,Engineering & Technology,95000,Chennai,Tamil Nadu,India,South India,Men,https://www.mjcollege.ac.in
+Meenakshi Sundarajan Engineering College,B.E. CSE,Engineering & Technology,110000,Chennai,Tamil Nadu,India,South India,Women,https://www.msec.ac.in
+Sathyabama Institute of Science and Technology,M.Tech CSE,Engineering & Technology,130000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.sathyabama.ac.in
+"Vels Institute of Science, Technology & Advanced Studies",B.Sc Nursing,Medicine & Health,100000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.velsuniv.ac.in
+Sri Ramachandra University,B.Pharm,Medicine & Health,150000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.sriramachandra.edu.in
+Tagore Medical College,MBBS,Medicine & Health,900000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.tagoremedicalcollege.org
+Meenakshi Medical College,MBBS,Medicine & Health,800000,Kanchipuram,Tamil Nadu,India,South India,Co-Ed,https://www.meenakshimedicalcollege.org
+SIMS Chennai,MBA,Management,300000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.simsgroup.org
+Madras Christian College,B.Sc Chemistry,Science & Research,45000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.mcc.edu.in
+M.S. Ramaiah Institute of Technology,B.E. CSE,Engineering & Technology,160000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.msrit.edu
+BMS College of Engineering,B.E. ECE,Engineering & Technology,130000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.bmsce.ac.in
+Dayananda Sagar College of Engineering,B.E. Mechanical,Engineering & Technology,120000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.dsce.edu.in
+JSS Science and Technology University,B.E. CSE,Engineering & Technology,140000,Mysuru,Karnataka,India,South India,Co-Ed,https://jssstuniv.in
+Nitte Meenakshi Institute of Technology,B.E. EEE,Engineering & Technology,110000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.nmit.ac.in
+Jain University Bengaluru,B.Tech AI,Engineering & Technology,250000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.jainuniversity.ac.in
+Jain University Bengaluru,MBA,Management,320000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.jainuniversity.ac.in
+Reva University,B.Tech CSE,Engineering & Technology,200000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.reva.edu.in
+CMR University,B.Tech Data Science,Engineering & Technology,190000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.cmru.ac.in
+Vidyavardhaka College of Engineering,B.E. Civil,Engineering & Technology,85000,Mysuru,Karnataka,India,South India,Co-Ed,https://www.vvce.ac.in
+TKM College of Engineering,B.Tech Mechanical,Engineering & Technology,70000,Kollam,Kerala,India,South India,Co-Ed,https://www.tkmce.ac.in
+College of Engineering Trivandrum,B.Tech CSE,Engineering & Technology,65000,Thiruvananthapuram,Kerala,India,South India,Co-Ed,https://www.cet.ac.in
+Government Engineering College Thrissur,B.Tech ECE,Engineering & Technology,60000,Thrissur,Kerala,India,South India,Co-Ed,https://www.gectcr.ac.in
+MES College of Engineering,B.Tech CSE,Engineering & Technology,75000,Kochi,Kerala,India,South India,Co-Ed,https://www.mescollege.ac.in
+Amrita School of Engineering Kochi,B.Tech CSE,Engineering & Technology,180000,Kochi,Kerala,India,South India,Co-Ed,https://www.amrita.edu/kochi
+Rajagiri School of Engineering & Technology,B.Tech Mechanical,Engineering & Technology,120000,Kochi,Kerala,India,South India,Co-Ed,https://www.rajagiritech.ac.in
+KL University,B.Tech CSE,Engineering & Technology,150000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.kluniversity.in
+KL University,MBA,Management,180000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.kluniversity.in
+Vignan University,B.Tech ECE,Engineering & Technology,130000,Guntur,Andhra Pradesh,India,South India,Co-Ed,https://www.vignanuniversity.org
+Jawaharlal Nehru Technological University Anantapur,B.Tech EEE,Engineering & Technology,90000,Anantapur,Andhra Pradesh,India,South India,Co-Ed,https://www.jntua.ac.in
+Koneru Lakshmaiah Education Foundation,B.Tech AI & ML,Engineering & Technology,170000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.kluniversity.in
+Vasavi College of Engineering,B.E. CSE,Engineering & Technology,130000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.vasavi.ac.in
+CVR College of Engineering,B.Tech IT,Engineering & Technology,100000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.cvr.ac.in
+CMR College of Engineering & Technology,B.Tech CSE,Engineering & Technology,120000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.cmrcet.ac.in
+NIT Allahabad (MNNIT),B.Tech Chemical,Engineering & Technology,150000,Prayagraj,Uttar Pradesh,India,North India,Co-Ed,https://www.mnnit.ac.in
+NIT Jaipur,B.Tech CSE,Engineering & Technology,150000,Jaipur,Rajasthan,India,North India,Co-Ed,https://www.mnit.ac.in
+Malaviya NIT Jaipur,M.Tech Structural,Engineering & Technology,140000,Jaipur,Rajasthan,India,North India,Co-Ed,https://www.mnit.ac.in
+University of Rajasthan,B.Sc Physics,Science & Research,18000,Jaipur,Rajasthan,India,North India,Co-Ed,https://www.uniraj.ac.in
+St. Stephen's College Delhi,B.A. English,Arts & Humanities,25000,New Delhi,Delhi,India,North India,Co-Ed,https://www.ststephens.edu
+Ramjas College Delhi,B.Sc Mathematics,Science & Research,18000,New Delhi,Delhi,India,North India,Co-Ed,https://ramjas.du.ac.in
+Hansraj College Delhi,B.Com (Hons),Commerce & Finance,18000,New Delhi,Delhi,India,North India,Co-Ed,https://www.hansrajcollege.ac.in
+Kirori Mal College Delhi,B.A. Political Science,Social Sciences,16000,New Delhi,Delhi,India,North India,Co-Ed,https://kmc.du.ac.in
+Indraprastha University,B.Tech CSE,Engineering & Technology,160000,New Delhi,Delhi,India,North India,Co-Ed,https://www.ipu.ac.in
+AIIMS Jodhpur,MBBS,Medicine & Health,1390,Jodhpur,Rajasthan,India,North India,Co-Ed,https://www.aiimsjodhpur.edu.in
+SRM University Delhi NCR,B.Tech CSE,Engineering & Technology,220000,Sonipat,Haryana,India,North India,Co-Ed,https://www.srmuniversity.ac.in/delhi-ncr
+Manav Rachna International Institute,B.Tech CSE,Engineering & Technology,180000,Faridabad,Haryana,India,North India,Co-Ed,https://www.manavrachna.edu.in
+Graphic Era University,B.Tech Mechanical,Engineering & Technology,150000,Dehradun,Uttarakhand,India,North India,Co-Ed,https://www.geu.ac.in
+Dev Bhoomi Uttarakhand University,B.Tech CSE,Engineering & Technology,120000,Dehradun,Uttarakhand,India,North India,Co-Ed,https://www.dbuu.ac.in
+Kurukshetra University,B.Tech ECE,Engineering & Technology,65000,Kurukshetra,Haryana,India,North India,Co-Ed,https://www.kuk.ac.in
+YMCA University of Science and Technology,B.Tech CSE,Engineering & Technology,70000,Faridabad,Haryana,India,North India,Co-Ed,https://www.ymcaust.ac.in
+Chitkara University Punjab,B.E. CSE,Engineering & Technology,200000,Rajpura,Punjab,India,North India,Co-Ed,https://www.chitkara.edu.in
+Guru Nanak Dev University,B.Tech CSE,Engineering & Technology,90000,Amritsar,Punjab,India,North India,Co-Ed,https://gndu.ac.in
+GNDU Amritsar,M.Sc Biochemistry,Life Sciences,40000,Amritsar,Punjab,India,North India,Co-Ed,https://gndu.ac.in
+Himachal Pradesh University,B.Sc Agriculture,Agriculture,35000,Shimla,Himachal Pradesh,India,North India,Co-Ed,https://www.hpuniv.ac.in
+NIT Hamirpur,B.Tech CSE,Engineering & Technology,140000,Hamirpur,Himachal Pradesh,India,North India,Co-Ed,https://www.nith.ac.in
+Sardar Vallabhbhai NIT Surat,B.Tech Chemical,Engineering & Technology,150000,Surat,Gujarat,India,West India,Co-Ed,https://www.svnit.ac.in
+Dhirubhai Ambani Institute (DA-IICT),B.Tech IT,Engineering & Technology,210000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.daiict.ac.in
+Pandit Deendayal Energy University,B.Tech Petroleum,Engineering & Technology,180000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.pdpu.ac.in
+Sardar Patel University,B.Sc Microbiology,Life Sciences,30000,Anand,Gujarat,India,West India,Co-Ed,https://www.spuvvn.edu
+M.S. University Baroda,B.A. Fine Arts,Arts & Humanities,20000,Vadodara,Gujarat,India,West India,Co-Ed,https://www.msubaroda.ac.in
+K.J. Somaiya College of Engineering,B.E. CSE,Engineering & Technology,180000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.kjsce.somaiya.edu
+Tata Institute of Social Sciences,MSW,Social Sciences,50000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.tiss.edu
+Tata Institute of Fundamental Research,Ph.D Physics,Science & Research,30000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.tifr.res.in
+Chetana's Institute of Management,MBA Marketing,Management,180000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.chetana.ac.in
+Vishwakarma Institute of Technology,B.Tech Mechanical,Engineering & Technology,110000,Pune,Maharashtra,India,West India,Co-Ed,https://www.vit.edu
+Indira College of Engineering,B.E. ECE,Engineering & Technology,85000,Pune,Maharashtra,India,West India,Co-Ed,https://www.indiraengineeringcollege.ac.in
+Zeal College of Engineering,B.E. CSE,Engineering & Technology,90000,Pune,Maharashtra,India,West India,Co-Ed,https://www.zealcet.org
+Heritage Institute of Technology,B.Tech CSE,Engineering & Technology,120000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.heritageit.edu
+MAKAUT West Bengal,B.Tech ECE,Engineering & Technology,50000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.makautwb.ac.in
+Techno India University,B.Tech CSE,Engineering & Technology,80000,Kolkata,West Bengal,India,East India,Co-Ed,https://technoindiauniversity.ac.in
+IIEST Shibpur,B.Tech Civil,Engineering & Technology,80000,Shibpur,West Bengal,India,East India,Co-Ed,https://www.iiests.ac.in
+Patna University,B.Sc Computer Science,Science & Research,20000,Patna,Bihar,India,East India,Co-Ed,https://www.patnauniversity.ac.in
+NIT Patna,B.Tech Electrical,Engineering & Technology,140000,Patna,Bihar,India,East India,Co-Ed,https://www.nitp.ac.in
+BIT Mesra,B.Tech CSE,Engineering & Technology,200000,Ranchi,Jharkhand,India,East India,Co-Ed,https://www.bitmesra.ac.in
+Centurion University,B.Tech Mechanical,Engineering & Technology,90000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.cutm.ac.in
+University of Göttingen,M.Sc Molecular Biology,Life Sciences,300000,Göttingen,Lower Saxony,Germany,Europe,Co-Ed,https://www.uni-goettingen.de
+Ludwig Maximilian University Munich,M.Sc Physics,Science & Research,150000,Munich,Bavaria,Germany,Europe,Co-Ed,https://www.lmu.de
+University of Amsterdam,B.Sc Econometrics,Commerce & Finance,2000000,Amsterdam,North Holland,Netherlands,Europe,Co-Ed,https://www.uva.nl
+TU Delft,B.Sc Architecture,Architecture & Design,2000000,Delft,South Holland,Netherlands,Europe,Co-Ed,https://www.tudelft.nl
+Uppsala University,M.Sc Immunology,Life Sciences,700000,Uppsala,Uppsala,Sweden,Europe,Co-Ed,https://www.uu.se
+Lund University,M.Sc Environmental Science,Science & Research,700000,Lund,Skåne,Sweden,Europe,Co-Ed,https://www.lu.se
+EPFL Switzerland,M.Sc Bioengineering,Life Sciences,1200000,Lausanne,Vaud,Switzerland,Europe,Co-Ed,https://www.epfl.ch
+University of Warsaw,M.Sc Computer Science,Engineering & Technology,300000,Warsaw,Masovian,Poland,Europe,Co-Ed,https://www.uw.edu.pl
+Charles University Prague,MBBS,Medicine & Health,1200000,Prague,Bohemia,Czech Republic,Europe,Co-Ed,https://www.cuni.cz
+University of Vienna,M.A. International Business,Management,800000,Vienna,Vienna,Austria,Europe,Co-Ed,https://www.univie.ac.at
+KU Leuven,M.Sc AI,Engineering & Technology,1000000,Leuven,Flemish Brabant,Belgium,Europe,Co-Ed,https://www.kuleuven.be
+TU Berlin,M.Sc Industrial Engineering,Engineering & Technology,200000,Berlin,Berlin,Germany,Europe,Co-Ed,https://www.tu.berlin
+Michigan State University,B.S. Animal Science,Life Sciences,3000000,East Lansing,Michigan,USA,North America,Co-Ed,https://www.msu.edu
+University of Pennsylvania (Wharton),MBA,Management,11000000,Philadelphia,Pennsylvania,USA,North America,Co-Ed,https://www.wharton.upenn.edu
+Boston University,B.S. Biomedical Engineering,Engineering & Technology,5500000,Boston,Massachusetts,USA,North America,Co-Ed,https://www.bu.edu
+University of Southern California,B.S. Computer Science,Engineering & Technology,5700000,Los Angeles,California,USA,North America,Co-Ed,https://www.usc.edu
+Duke University,B.S. Biomedical Engineering,Engineering & Technology,5800000,Durham,North Carolina,USA,North America,Co-Ed,https://www.duke.edu
+Northwestern University,B.S. Journalism,Media & Communication,5500000,Evanston,Illinois,USA,North America,Co-Ed,https://www.northwestern.edu
+Cornell University,B.S. Hotel Administration,Management,5900000,Ithaca,New York,USA,North America,Co-Ed,https://www.cornell.edu
+University of Washington,M.S. Information Systems,Engineering & Technology,3800000,Seattle,Washington,USA,North America,Co-Ed,https://www.uw.edu
+Concordia University,B.Sc Software Engineering,Engineering & Technology,1500000,Montreal,Quebec,Canada,North America,Co-Ed,https://www.concordia.ca
+McMaster University,B.Eng Electrical,Engineering & Technology,2200000,Hamilton,Ontario,Canada,North America,Co-Ed,https://www.mcmaster.ca
+Dalhousie University,B.Sc Computer Science,Engineering & Technology,1800000,Halifax,Nova Scotia,Canada,North America,Co-Ed,https://www.dal.ca
+RMIT University,B.Tech Computer Science,Engineering & Technology,2800000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.rmit.edu.au
+University of Adelaide,B.Eng Mechanical,Engineering & Technology,2600000,Adelaide,South Australia,Australia,Oceania,Co-Ed,https://www.adelaide.edu.au
+Curtin University,B.Sc Mining Engineering,Engineering & Technology,2400000,Perth,Western Australia,Australia,Oceania,Co-Ed,https://www.curtin.edu.au
+Victoria University of Wellington,B.Sc Statistics,Science & Research,1800000,Wellington,Wellington,New Zealand,Oceania,Co-Ed,https://www.wgtn.ac.nz
+University of Otago,M.B.Ch.B (MBBS),Medicine & Health,2200000,Dunedin,Otago,New Zealand,Oceania,Co-Ed,https://www.otago.ac.nz
+Indian Institute of Technology Palakkad,B.Tech CSE,Engineering & Technology,200000,Palakkad,Kerala,India,South India,Co-Ed,https://www.iitpkd.ac.in
+Indian Institute of Technology Tirupati,B.Tech Mechanical,Engineering & Technology,200000,Tirupati,Andhra Pradesh,India,South India,Co-Ed,https://www.iittp.ac.in
+Indian Institute of Technology Dharwad,B.Tech CSE,Engineering & Technology,200000,Dharwad,Karnataka,India,South India,Co-Ed,https://www.iitdh.ac.in
+Indian Institute of Technology Bhilai,B.Tech CSE,Engineering & Technology,200000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.iitbhilai.ac.in
+Indian Institute of Technology Jammu,B.Tech ECE,Engineering & Technology,200000,Jammu,J&K,India,North India,Co-Ed,https://www.iitjammu.ac.in
+AIIMS Jodhpur,MD Radiology,Medicine & Health,2000,Jodhpur,Rajasthan,India,North India,Co-Ed,https://www.aiimsjodhpur.edu.in
+AIIMS Bhopal,MBBS,Medicine & Health,1390,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.aiimsbhopal.edu.in
+AIIMS Rishikesh,MBBS,Medicine & Health,1390,Rishikesh,Uttarakhand,India,North India,Co-Ed,https://www.aiimsrishikesh.edu.in
+AIIMS Bhubaneswar,MBBS,Medicine & Health,1390,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.aiimsbhubaneswar.nic.in
+AIIMS Patna,MBBS,Medicine & Health,1390,Patna,Bihar,India,East India,Co-Ed,https://www.aiimspatna.org
+IIM Shillong,MBA,Management,1500000,Shillong,Meghalaya,India,North East India,Co-Ed,https://www.iimshillong.ac.in
+NIT Meghalaya,B.Tech CSE,Engineering & Technology,140000,Shillong,Meghalaya,India,North East India,Co-Ed,https://www.nitm.ac.in
+Dibrugarh University,M.Sc Computer Science,Engineering & Technology,30000,Dibrugarh,Assam,India,North East India,Co-Ed,https://www.dibru.ac.in
+Mizoram University,B.Sc Information Technology,Engineering & Technology,25000,Aizawl,Mizoram,India,North East India,Co-Ed,https://www.mzu.edu.in
+Manipur University,M.Sc Biotechnology,Life Sciences,28000,Imphal,Manipur,India,North East India,Co-Ed,https://www.manipuruniv.ac.in
+Nagaland University,B.A. Political Science,Social Sciences,15000,Kohima,Nagaland,India,North East India,Co-Ed,https://www.nagalanduniversity.ac.in
+Tripura University,B.Sc Physics,Science & Research,15000,Agartala,Tripura,India,North East India,Co-Ed,https://www.tripurauniv.ac.in
+Sikkim Manipal University,B.Tech CSE,Engineering & Technology,150000,Gangtok,Sikkim,India,North East India,Co-Ed,https://www.smit.smu.edu.in
+University of Science and Technology Meghalaya,B.Tech ECE,Engineering & Technology,100000,Ri-Bhoi,Meghalaya,India,North East India,Co-Ed,https://www.ustm.ac.in
+Gauhati Commerce College,B.Com,Commerce & Finance,12000,Guwahati,Assam,India,North East India,Co-Ed,https://www.gccollege.ac.in
+Indian Statistical Institute,B.Stat,Science & Research,35000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.isical.ac.in
+Indian Statistical Institute,M.Stat,Science & Research,30000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.isical.ac.in
+IIM Rohtak,MBA,Management,1400000,Rohtak,Haryana,India,North India,Co-Ed,https://www.iimrohtak.ac.in
+IIM Ranchi,MBA HR,Management,1400000,Ranchi,Jharkhand,India,East India,Co-Ed,https://www.iimranchi.ac.in
+IIM Raipur,MBA,Management,1300000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.iimraipur.ac.in
+IIM Udaipur,MBA,Management,1600000,Udaipur,Rajasthan,India,North India,Co-Ed,https://www.iimu.ac.in
+IIM Vizag,MBA,Management,1200000,Visakhapatnam,Andhra Pradesh,India,South India,Co-Ed,https://www.iimv.ac.in
+IIM Nagpur,MBA,Management,1350000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.iimnagpur.ac.in
+IIM Bodh Gaya,MBA,Management,1000000,Bodh Gaya,Bihar,India,East India,Co-Ed,https://www.iimbg.ac.in
+IIM Amritsar,MBA,Management,1100000,Amritsar,Punjab,India,North India,Co-Ed,https://www.iimamritsar.ac.in
+IIM Sambalpur,MBA,Management,1000000,Sambalpur,Odisha,India,East India,Co-Ed,https://www.iimsambalpur.ac.in
+IIM Sirmaur,MBA,Management,1050000,Sirmaur,Himachal Pradesh,India,North India,Co-Ed,https://www.iimsirmaur.ac.in
+IIM Jammu,MBA,Management,1150000,Jammu,J&K,India,North India,Co-Ed,https://www.iimj.ac.in
+IIM Kashipur,MBA,Management,1300000,Kashipur,Uttarakhand,India,North India,Co-Ed,https://www.iimkashipur.ac.in
+National Institute of Fashion Technology Bengaluru,B.Des Fashion Design,Architecture & Design,180000,Bengaluru,Karnataka,India,South India,Co-Ed,https://nift.ac.in/bengaluru
+National Institute of Fashion Technology Hyderabad,B.Des Textile,Architecture & Design,180000,Hyderabad,Telangana,India,South India,Co-Ed,https://nift.ac.in/hyderabad
+National Institute of Fashion Technology Mumbai,B.Des Leather Design,Architecture & Design,190000,Mumbai,Maharashtra,India,West India,Co-Ed,https://nift.ac.in/mumbai
+Symbiosis Centre for Management & HRD,MBA HR,Management,750000,Pune,Maharashtra,India,West India,Co-Ed,https://www.scmhrd.edu
+Symbiosis Institute of International Business,MBA IB,Management,800000,Pune,Maharashtra,India,West India,Co-Ed,https://www.siib.ac.in
+SCIT Pune,MBA IT,Management,700000,Pune,Maharashtra,India,West India,Co-Ed,https://www.scit.edu
+Welingkar Institute of Management,PGDM,Management,750000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.welingkar.org
+K.J. Somaiya Institute of Management,MBA,Management,1500000,Mumbai,Maharashtra,India,West India,Co-Ed,https://simsr.somaiya.edu
+Prin. L.N. Welingkar Institute of Management,PGDM (Marketing),Management,680000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.welingkar.org/bengaluru
+IFMR Graduate School of Business (KREA),MBA,Management,1400000,Sri City,Andhra Pradesh,India,South India,Co-Ed,https://www.krea.edu.in/ifmr
+Manipal Institute of Technology,B.Tech ECE,Engineering & Technology,210000,Manipal,Karnataka,India,South India,Co-Ed,https://manipal.edu/mit.html
+MIT WPU Pune,B.Tech CSE,Engineering & Technology,160000,Pune,Maharashtra,India,West India,Co-Ed,https://www.mitwpu.edu.in
+Institute of Chemical Technology Mumbai,B.Tech Chemical,Engineering & Technology,120000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.ictmumbai.edu.in
+Homi Bhabha National Institute,Ph.D Nuclear Science,Science & Research,25000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.hbni.ac.in
+Sanjay Gandhi Post Graduate Institute,MD Medicine,Medicine & Health,5000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.sgpgi.ac.in
+Postgraduate Institute Chandigarh (PGI),MD/MS,Medicine & Health,3000,Chandigarh,Punjab,India,North India,Co-Ed,https://www.pgimer.edu.in
+NIMHANS Bengaluru,M.D. Psychiatry,Medicine & Health,25000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.nimhans.ac.in
+Rajiv Gandhi University of Health Sciences,B.Pharm,Medicine & Health,80000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.rguhs.ac.in
+Manipal College of Dental Sciences,BDS,Medicine & Health,500000,Manipal,Karnataka,India,South India,Co-Ed,https://manipal.edu/mcods-manipal.html
+NISER Bhubaneswar,B.Sc Research,Science & Research,30000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.niser.ac.in
+IISER Pune,B.S. M.S. Research,Science & Research,25000,Pune,Maharashtra,India,West India,Co-Ed,https://www.iiserpune.ac.in
+IISER Kolkata,B.S. Chemistry,Science & Research,25000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.iiserkol.ac.in
+IISER Bhopal,B.S. Physics,Science & Research,25000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.iiserb.ac.in
+IISER Thiruvananthapuram,B.S. Biology,Life Sciences,25000,Thiruvananthapuram,Kerala,India,South India,Co-Ed,https://www.iisertvm.ac.in
+IISER Mohali,B.S. Mathematics,Science & Research,25000,Mohali,Punjab,India,North India,Co-Ed,https://www.iisermohali.ac.in
+Annamalai University,B.Tech CSE,Engineering & Technology,55000,Chidambaram,Tamil Nadu,India,South India,Co-Ed,https://www.annamalaiuniversity.ac.in
+Annamalai University,M.Sc Zoology,Life Sciences,30000,Chidambaram,Tamil Nadu,India,South India,Co-Ed,https://www.annamalaiuniversity.ac.in
+Annamalai University,MBA,Management,50000,Chidambaram,Tamil Nadu,India,South India,Co-Ed,https://www.annamalaiuniversity.ac.in
+Manonmaniam Sundaranar University,B.Sc Computer Science,Science & Research,18000,Tirunelveli,Tamil Nadu,India,South India,Co-Ed,https://www.msuniv.ac.in
+Manonmaniam Sundaranar University,M.Sc Physics,Science & Research,22000,Tirunelveli,Tamil Nadu,India,South India,Co-Ed,https://www.msuniv.ac.in
+Madurai Kamaraj University,M.Sc Mathematics,Science & Research,24000,Madurai,Tamil Nadu,India,South India,Co-Ed,https://www.mkuniversity.ac.in
+Madurai Kamaraj University,MBA,Management,40000,Madurai,Tamil Nadu,India,South India,Co-Ed,https://www.mkuniversity.ac.in
+Mother Teresa Women's University,B.Sc Home Science,Life Sciences,20000,Kodaikanal,Tamil Nadu,India,South India,Women,https://www.motherteresawomenuniv.ac.in
+Mother Teresa Women's University,M.A. Tamil Literature,Arts & Humanities,18000,Kodaikanal,Tamil Nadu,India,South India,Women,https://www.motherteresawomenuniv.ac.in
+Avinashilingam University,B.Sc Nutrition,Life Sciences,30000,Coimbatore,Tamil Nadu,India,South India,Women,https://www.avinuty.ac.in
+Avinashilingam University,M.Sc Food Technology,Life Sciences,35000,Coimbatore,Tamil Nadu,India,South India,Women,https://www.avinuty.ac.in
+Bharath Institute of Higher Education,B.Tech Mechanical,Engineering & Technology,120000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.bharathuniv.ac.in
+Prathyusha Engineering College,B.E. Civil,Engineering & Technology,75000,Tiruvallur,Tamil Nadu,India,South India,Co-Ed,https://www.prathyusha.edu.in
+RMD Engineering College,B.E. CSE,Engineering & Technology,80000,Thiruvallur,Tamil Nadu,India,South India,Men,https://www.rmd.ac.in
+Saveetha Engineering College,B.E. IT,Engineering & Technology,85000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.saveetha.ac.in
+Jerusalem College of Engineering,B.E. Mechanical,Engineering & Technology,80000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.jce.ac.in
+Sri Venkateswara College of Engineering,B.E. ECE,Engineering & Technology,110000,Kanchipuram,Tamil Nadu,India,South India,Co-Ed,https://www.svce.ac.in
+Adhiparasakthi Engineering College,B.E. CSE,Engineering & Technology,70000,Kanchipuram,Tamil Nadu,India,South India,Co-Ed,https://www.apec.edu.in
+Francis Xavier Engineering College,B.E. IT,Engineering & Technology,72000,Tirunelveli,Tamil Nadu,India,South India,Co-Ed,https://www.francisxavier.ac.in
+National Engineering College,B.E. Mechanical,Engineering & Technology,75000,Kovilpatti,Tamil Nadu,India,South India,Co-Ed,https://www.nec.edu.in
+Cape Institute of Technology,B.E. EEE,Engineering & Technology,68000,Kanyakumari,Tamil Nadu,India,South India,Co-Ed,https://www.capeit.ac.in
+Ponjesly College of Engineering,B.E. CSE,Engineering & Technology,65000,Kanyakumari,Tamil Nadu,India,South India,Women,https://www.ponjesly.com
+Government College of Engineering Salem,B.E. Civil,Engineering & Technology,20000,Salem,Tamil Nadu,India,South India,Co-Ed,https://www.gcesalem.edu.in
+Government College of Engineering Dharmapuri,B.E. EEE,Engineering & Technology,20000,Dharmapuri,Tamil Nadu,India,South India,Co-Ed,https://www.gced.edu.in
+Sona College of Technology,B.E. CSE,Engineering & Technology,90000,Salem,Tamil Nadu,India,South India,Co-Ed,https://www.sonatech.ac.in
+AVS Engineering College,B.E. Mechanical,Engineering & Technology,70000,Salem,Tamil Nadu,India,South India,Co-Ed,https://www.avsengineering.ac.in
+Paavai Engineering College,B.E. ECE,Engineering & Technology,75000,Namakkal,Tamil Nadu,India,South India,Co-Ed,https://www.paavai.edu.in
+Gnanamani College of Technology,B.E. CSE,Engineering & Technology,68000,Namakkal,Tamil Nadu,India,South India,Co-Ed,https://www.gnanamani.edu.in
+Sri GVG Visalakshi College for Women,B.Sc Computer Science,Science & Research,25000,Udumalaipettai,Tamil Nadu,India,South India,Women,https://www.sgvgvcw.in
+Dr. NGP Arts and Science College,B.Sc Mathematics,Science & Research,35000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.drngpasc.ac.in
+Nirmala College for Women,B.Com,Commerce & Finance,28000,Coimbatore,Tamil Nadu,India,South India,Women,https://www.nirmalacollege.ac.in
+Dr. GRD College of Science,M.Sc Chemistry,Science & Research,30000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.grdcolleges.ac.in
+Bharathiar University,MBA,Management,35000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.b-u.ac.in
+Bharathiar University,M.Sc Physics,Science & Research,28000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.b-u.ac.in
+RVS College of Arts and Science,B.Sc Microbiology,Life Sciences,28000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.rvs.edu.in
+Visvesvaraya Technological University (VTU),B.E. CSE,Engineering & Technology,75000,Belagavi,Karnataka,India,South India,Co-Ed,https://vtu.ac.in
+Visvesvaraya Technological University (VTU),M.Tech Power Systems,Engineering & Technology,70000,Belagavi,Karnataka,India,South India,Co-Ed,https://vtu.ac.in
+University of Mysore,M.Sc Biochemistry,Life Sciences,22000,Mysuru,Karnataka,India,South India,Co-Ed,https://www.uni-mysore.ac.in
+University of Mysore,MBA,Management,45000,Mysuru,Karnataka,India,South India,Co-Ed,https://www.uni-mysore.ac.in
+Mysuru Royal Academy,B.A. Fine Arts,Arts & Humanities,25000,Mysuru,Karnataka,India,South India,Co-Ed,https://www.royalacademy.edu.in
+K.L.E. Institute of Technology,B.E. Mechanical,Engineering & Technology,90000,Hubballi,Karnataka,India,South India,Co-Ed,https://www.kleit.ac.in
+SDM College of Engineering,B.E. EEE,Engineering & Technology,85000,Dharwad,Karnataka,India,South India,Co-Ed,https://www.sdmcet.ac.in
+Basaveshwar Engineering College,B.E. CSE,Engineering & Technology,80000,Bagalkot,Karnataka,India,South India,Co-Ed,https://www.becbagalkot.ac.in
+Poojya Doddappa Appa College of Engineering,B.E. Civil,Engineering & Technology,75000,Kalaburagi,Karnataka,India,South India,Co-Ed,https://www.pdace.ac.in
+East West Institute of Technology,B.E. CSE,Engineering & Technology,110000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.ewit.edu
+Ramaiah University of Applied Sciences,B.Pharm,Medicine & Health,150000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.msruas.ac.in
+Kuvempu University,B.Sc Computer Science,Science & Research,20000,Shivamogga,Karnataka,India,South India,Co-Ed,https://www.kuvempu.ac.in
+Mangalore University,M.Sc Marine Biology,Life Sciences,30000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.mangaloreuniversity.ac.in
+NITK Surathkal,B.Tech Civil,Engineering & Technology,150000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.nitk.ac.in
+NITK Surathkal,M.Tech Computer Engineering,Engineering & Technology,140000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.nitk.ac.in
+Canara Engineering College,B.E. ECE,Engineering & Technology,80000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.canara.org
+St. Joseph Engineering College,B.E. CSE,Engineering & Technology,100000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.sjec.ac.in
+Srinivas University,B.Tech Artificial Intelligence,Engineering & Technology,130000,Mangaluru,Karnataka,India,South India,Co-Ed,https://www.srinivasuniversity.edu.in
+GITAM University,B.Tech CSE,Engineering & Technology,160000,Visakhapatnam,Andhra Pradesh,India,South India,Co-Ed,https://www.gitam.edu
+GITAM University,MBA,Management,250000,Visakhapatnam,Andhra Pradesh,India,South India,Co-Ed,https://www.gitam.edu
+Acharya Nagarjuna University,B.Tech ECE,Engineering & Technology,80000,Guntur,Andhra Pradesh,India,South India,Co-Ed,https://www.nagarjunauniversity.ac.in
+Sri Krishnadevaraya University,B.Sc Chemistry,Science & Research,18000,Anantapur,Andhra Pradesh,India,South India,Co-Ed,https://www.skuniversity.ac.in
+Vikrama Simhapuri University,M.A. English,Arts & Humanities,20000,Nellore,Andhra Pradesh,India,South India,Co-Ed,https://www.simhapuriuniv.ac.in
+YSR University of Health Sciences,MBBS,Medicine & Health,650000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.ntruhs.ap.nic.in
+Kakatiya University,B.Tech CSE,Engineering & Technology,70000,Warangal,Telangana,India,South India,Co-Ed,https://www.kakatiya.ac.in
+Kakatiya University,MBA,Management,65000,Warangal,Telangana,India,South India,Co-Ed,https://www.kakatiya.ac.in
+Mahatma Gandhi University Nalgonda,B.Sc Mathematics,Science & Research,16000,Nalgonda,Telangana,India,South India,Co-Ed,https://www.mgunitwl.ac.in
+Telangana University,B.Com,Commerce & Finance,15000,Nizamabad,Telangana,India,South India,Co-Ed,https://www.telanganaUniversity.ac.in
+Palamuru University,M.A. Economics,Social Sciences,18000,Mahabubnagar,Telangana,India,South India,Co-Ed,https://www.palamuruuniversity.ac.in
+Kerala Agricultural University,B.Sc Agriculture,Agriculture,40000,Thrissur,Kerala,India,South India,Co-Ed,https://www.kau.in
+Kerala Agricultural University,M.Sc Agronomy,Agriculture,35000,Thrissur,Kerala,India,South India,Co-Ed,https://www.kau.in
+Mahatma Gandhi University Kottayam,B.Tech IT,Engineering & Technology,70000,Kottayam,Kerala,India,South India,Co-Ed,https://www.mgu.ac.in
+Mahatma Gandhi University Kottayam,M.Sc Polymer Chemistry,Science & Research,28000,Kottayam,Kerala,India,South India,Co-Ed,https://www.mgu.ac.in
+Calicut University,B.Sc Computer Science,Science & Research,20000,Malappuram,Kerala,India,South India,Co-Ed,https://www.uoc.ac.in
+Calicut University,MBA,Management,50000,Malappuram,Kerala,India,South India,Co-Ed,https://www.uoc.ac.in
+Sree Kerala Varma College,B.Sc Physics,Science & Research,18000,Thrissur,Kerala,India,South India,Co-Ed,https://www.sreekvm.ac.in
+Mar Athanasius College of Engineering,B.Tech Electrical,Engineering & Technology,85000,Kothamangalam,Kerala,India,South India,Co-Ed,https://www.mace.ac.in
+Saintgits College of Engineering,B.Tech CSE,Engineering & Technology,110000,Kottayam,Kerala,India,South India,Co-Ed,https://www.saintgits.org
+Vidya Academy of Science & Technology,B.Tech ECE,Engineering & Technology,90000,Thrissur,Kerala,India,South India,Co-Ed,https://www.vidyaacademy.ac.in
+LBS College of Engineering,B.Tech Mechanical,Engineering & Technology,70000,Kasaragod,Kerala,India,South India,Co-Ed,https://www.lbsce.ac.in
+Lucknow University,B.Sc Computer Science,Science & Research,22000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.lkouniv.ac.in
+Lucknow University,MBA,Management,50000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.lkouniv.ac.in
+Harcourt Butler Technical University,B.Tech Chemical,Engineering & Technology,80000,Kanpur,Uttar Pradesh,India,North India,Co-Ed,https://www.hbtu.ac.in
+Madan Mohan Malaviya University,B.Tech Mining,Engineering & Technology,70000,Gorakhpur,Uttar Pradesh,India,North India,Co-Ed,https://www.mmmut.ac.in
+Dr. A.P.J. Abdul Kalam Technical University,B.Tech CSE,Engineering & Technology,80000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.aktu.ac.in
+Agra University (Dr. B.R. Ambedkar),B.Com,Commerce & Finance,15000,Agra,Uttar Pradesh,India,North India,Co-Ed,https://www.dbrau.ac.in
+Vikram University,M.Sc Chemistry,Science & Research,20000,Ujjain,Madhya Pradesh,India,Central India,Co-Ed,https://www.vikramuniversity.ac.in
+Barkatullah University,MBA,Management,35000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.bubhopal.ac.in
+RKDF University Bhopal,B.Tech CSE,Engineering & Technology,90000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.rkdfuniversity.org
+Maulana Azad National Institute of Technology,B.Tech Chemical,Engineering & Technology,150000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.manit.ac.in
+LNCT Bhopal,B.E. CSE,Engineering & Technology,90000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.lnct.ac.in
+Rabindranath Tagore University,B.Tech ECE,Engineering & Technology,80000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.aisectuniversity.ac.in
+Magadh University,B.A. Political Science,Social Sciences,10000,Bodh Gaya,Bihar,India,East India,Co-Ed,https://www.magadhuniversity.ac.in
+Veer Kunwar Singh University,B.Sc Physics,Science & Research,12000,Ara,Bihar,India,East India,Co-Ed,https://www.vksu.ac.in
+Nalanda Open University,B.Com,Commerce & Finance,8000,Patna,Bihar,India,East India,Co-Ed,https://www.nalandaopenuniversity.com
+Rajasthan Technical University,B.Tech CSE,Engineering & Technology,75000,Kota,Rajasthan,India,North India,Co-Ed,https://www.rtu.ac.in
+Jai Narain Vyas University,B.Sc Chemistry,Science & Research,15000,Jodhpur,Rajasthan,India,North India,Co-Ed,https://www.jnvu.edu.in
+Mohanlal Sukhadia University,B.E. Electrical,Engineering & Technology,60000,Udaipur,Rajasthan,India,North India,Co-Ed,https://www.mlsu.ac.in
+BITS Pilani Hyderabad Campus,B.E. Mechanical,Engineering & Technology,250000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.bits-pilani.ac.in/hyderabad
+Banasthali Vidyapith,B.Tech CSE,Engineering & Technology,120000,Newai,Rajasthan,India,North India,Women,https://www.banasthali.org
+Banasthali Vidyapith,MBA,Management,180000,Newai,Rajasthan,India,North India,Women,https://www.banasthali.org
+Manipal University Jaipur,B.Tech CSE,Engineering & Technology,200000,Jaipur,Rajasthan,India,North India,Co-Ed,https://www.jaipur.manipal.edu
+Poornima University,B.Tech ECE,Engineering & Technology,140000,Jaipur,Rajasthan,India,North India,Co-Ed,https://www.poornima.edu.in
+GTU Gujarat,B.E. Mechanical,Engineering & Technology,65000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.gtu.ac.in
+Marwadi University,B.Tech AI,Engineering & Technology,160000,Rajkot,Gujarat,India,West India,Co-Ed,https://www.marwadiuniversity.ac.in
+Hemchandracharya North Gujarat University,B.Sc Computer Science,Science & Research,18000,Patan,Gujarat,India,West India,Co-Ed,https://www.ngu.ac.in
+Veer Narmad South Gujarat University,B.E. Civil,Engineering & Technology,60000,Surat,Gujarat,India,West India,Co-Ed,https://www.vnsgu.ac.in
+Saurashtra University,M.Sc Physics,Science & Research,20000,Rajkot,Gujarat,India,West India,Co-Ed,https://www.saurashtrauniversity.edu
+Maharaja Sayajirao University of Baroda,B.Sc Biochemistry,Life Sciences,22000,Vadodara,Gujarat,India,West India,Co-Ed,https://www.msubaroda.ac.in
+Navrachana University,B.Tech Mechanical,Engineering & Technology,150000,Vadodara,Gujarat,India,West India,Co-Ed,https://www.nuv.ac.in
+Solapur University,B.Tech CSE,Engineering & Technology,65000,Solapur,Maharashtra,India,West India,Co-Ed,https://www.su.digitaluniversity.ac
+North Maharashtra University,B.Sc IT,Engineering & Technology,30000,Jalgaon,Maharashtra,India,West India,Co-Ed,https://www.nmu.ac.in
+Swami Ramanand Teerth Marathwada University,B.E. Mechanical,Engineering & Technology,65000,Nanded,Maharashtra,India,West India,Co-Ed,https://www.srtmun.ac.in
+Rashtrasant Tukadoji Maharaj Nagpur University,B.Com,Commerce & Finance,18000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.nagpuruniversity.ac.in
+Visvesvaraya NIT Nagpur,B.Tech CSE,Engineering & Technology,150000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.vnit.ac.in
+Shri Ramdeobaba University,B.Tech Mechanical,Engineering & Technology,130000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.rknec.edu
+Priyadarshini College of Engineering,B.E. CSE,Engineering & Technology,90000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.pcenagpur.edu
+G.H. Raisoni College of Engineering,B.E. CSE,Engineering & Technology,120000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.ghrce.raisoni.net
+MIT College of Engineering (MITCOE),B.E. IT,Engineering & Technology,130000,Pune,Maharashtra,India,West India,Co-Ed,https://www.mitcoe.edu.in
+Sinhgad College of Engineering,B.E. Mechanical,Engineering & Technology,110000,Pune,Maharashtra,India,West India,Co-Ed,https://www.sinhgad.edu
+Bharati Vidyapeeth College of Engineering,B.E. ECE,Engineering & Technology,115000,Pune,Maharashtra,India,West India,Co-Ed,https://www.bvucoepune.edu.in
+D.Y. Patil International University,B.Tech CSE,Engineering & Technology,180000,Pune,Maharashtra,India,West India,Co-Ed,https://www.dypiiu.ac.in
+DY Patil Medical College Pune,MBBS,Medicine & Health,1300000,Pune,Maharashtra,India,West India,Co-Ed,https://www.dypvp.edu.in
+Bharati Vidyapeeth Medical College,MBBS,Medicine & Health,1000000,Pune,Maharashtra,India,West India,Co-Ed,https://www.bvumc.ac.in
+Symbiosis Medical College for Women,MBBS,Medicine & Health,1100000,Pune,Maharashtra,India,West India,Women,https://www.siu.edu.in
+Jadavpur University,B.E. Civil,Engineering & Technology,40000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.jaduniv.edu.in
+WBUT (MAKAUT),B.Tech IT,Engineering & Technology,50000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.makautwb.ac.in
+St. Xavier's College Kolkata,B.Sc Statistics,Science & Research,35000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.sxccal.edu
+Ramakrishna Mission Vidyamandira,B.Sc Physics,Science & Research,20000,Belur,West Bengal,India,East India,Men,https://www.rkmv.ac.in
+University of North Bengal,M.Sc Mathematics,Science & Research,20000,Siliguri,West Bengal,India,East India,Co-Ed,https://www.nbu.ac.in
+Sikkim University,B.Sc Environmental Science,Science & Research,25000,Gangtok,Sikkim,India,North East India,Co-Ed,https://www.cus.ac.in
+Assam University,M.A. Linguistics,Arts & Humanities,18000,Silchar,Assam,India,North East India,Co-Ed,https://www.assam.edu
+North Eastern Hill University,M.Sc Botany,Life Sciences,20000,Shillong,Meghalaya,India,North East India,Co-Ed,https://www.nehu.ac.in
+Rajiv Gandhi University Itanagar,B.A. English,Arts & Humanities,15000,Itanagar,Arunachal Pradesh,India,North East India,Co-Ed,https://www.rgu.ac.in
+Gujarat National Law University,B.A. LLB,Law,170000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.gnlu.ac.in
+RGNUL Patiala,B.A. LLB,Law,160000,Patiala,Punjab,India,North India,Co-Ed,https://www.rgnul.ac.in
+HNLU Raipur,B.A. LLB,Law,150000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.hnlu.ac.in
+CNLU Patna,B.A. LLB,Law,140000,Patna,Bihar,India,East India,Co-Ed,https://cnlu.ac.in
+MNLU Mumbai,B.A. LLB,Law,200000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.mnlumumbai.edu.in
+NID Kolkata,B.Des Graphic Design,Architecture & Design,200000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.nid.edu/kolkata
+NID Vijayawada,B.Des Product Design,Architecture & Design,200000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.nid.edu/vijayawada
+NID Jorhat,B.Des Craft & Tradition,Architecture & Design,200000,Jorhat,Assam,India,North East India,Co-Ed,https://www.nid.edu/jorhat
+Whistling Woods International,B.Sc Media Management,Media & Communication,550000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.whistlingwoods.net
+Asian College of Journalism,PG Journalism,Media & Communication,280000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.asianmedia.org
+Mudra Institute of Communications,MBA Marketing Communications,Media & Communication,1200000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.mica.ac.in
+Symbiosis School of Media & Communication,B.Sc Mass Communication,Media & Communication,250000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.ssmc.edu.in
+School of Communication Manipal,B.A. Journalism,Media & Communication,280000,Manipal,Karnataka,India,South India,Co-Ed,https://manipal.edu/msc.html
+Acharya NG Ranga Agricultural University,B.Sc Agriculture,Agriculture,35000,Guntur,Andhra Pradesh,India,South India,Co-Ed,https://www.angrau.ac.in
+Kerala Veterinary and Animal Sciences University,B.V.Sc & AH,Life Sciences,50000,Wayanad,Kerala,India,South India,Co-Ed,https://www.kvasu.ac.in
+Tamil Nadu Veterinary and Animal Sciences University,B.V.Sc,Life Sciences,45000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.tanuvas.ac.in
+Rajasthan Agriculture University,B.Sc Agriculture,Agriculture,30000,Bikaner,Rajasthan,India,North India,Co-Ed,https://www.raubikaner.org
+Punjab Agricultural University,B.Sc Agriculture,Agriculture,35000,Ludhiana,Punjab,India,North India,Co-Ed,https://www.pau.edu
+Anand Agricultural University,B.Sc Agriculture,Agriculture,30000,Anand,Gujarat,India,West India,Co-Ed,https://www.aau.in
+Odisha University of Agriculture and Technology,B.Tech Food Technology,Life Sciences,40000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.ouat.ac.in
+University of Florida,B.S. Computer Science,Engineering & Technology,2500000,Gainesville,Florida,USA,North America,Co-Ed,https://www.ufl.edu
+Ohio State University,B.S. Electrical Engineering,Engineering & Technology,3200000,Columbus,Ohio,USA,North America,Co-Ed,https://www.osu.edu
+Penn State University,B.S. Civil Engineering,Engineering & Technology,3500000,State College,Pennsylvania,USA,North America,Co-Ed,https://www.psu.edu
+Virginia Tech,B.S. Computer Engineering,Engineering & Technology,3300000,Blacksburg,Virginia,USA,North America,Co-Ed,https://www.vt.edu
+University of Maryland,B.S. Information Systems,Engineering & Technology,3800000,College Park,Maryland,USA,North America,Co-Ed,https://www.umd.edu
+North Carolina State University,B.S. Textile Engineering,Engineering & Technology,2800000,Raleigh,North Carolina,USA,North America,Co-Ed,https://www.ncsu.edu
+Rensselaer Polytechnic Institute,B.S. Nuclear Engineering,Engineering & Technology,5700000,Troy,New York,USA,North America,Co-Ed,https://www.rpi.edu
+Caltech,B.S. Physics,Science & Research,6000000,Pasadena,California,USA,North America,Co-Ed,https://www.caltech.edu
+Caltech,M.S. Aeronautics,Engineering & Technology,5800000,Pasadena,California,USA,North America,Co-Ed,https://www.caltech.edu
+UCLA,B.S. Computer Science,Engineering & Technology,4300000,Los Angeles,California,USA,North America,Co-Ed,https://www.ucla.edu
+UCLA Anderson School of Management,MBA,Management,8000000,Los Angeles,California,USA,North America,Co-Ed,https://www.anderson.ucla.edu
+University of Chicago Booth,MBA,Management,10500000,Chicago,Illinois,USA,North America,Co-Ed,https://www.chicagobooth.edu
+Dartmouth Tuck School of Business,MBA,Management,10200000,Hanover,New Hampshire,USA,North America,Co-Ed,https://www.tuck.dartmouth.edu
+Emory University (Goizueta),MBA,Management,7800000,Atlanta,Georgia,USA,North America,Co-Ed,https://www.goizueta.emory.edu
+Rice University (Jones),MBA,Management,7200000,Houston,Texas,USA,North America,Co-Ed,https://www.jones.rice.edu
+University of Notre Dame (Mendoza),MBA,Management,7500000,Notre Dame,Indiana,USA,North America,Co-Ed,https://www.mendoza.nd.edu
+Vanderbilt University (Owen),MBA,Management,7200000,Nashville,Tennessee,USA,North America,Co-Ed,https://www.owen.vanderbilt.edu
+Indiana University (Kelley),B.S. Business,Management,3200000,Bloomington,Indiana,USA,North America,Co-Ed,https://www.kelley.iu.edu
+University of Minnesota,B.S. Data Science,Engineering & Technology,3000000,Minneapolis,Minnesota,USA,North America,Co-Ed,https://www.umn.edu
+Northeastern University,B.S. Computer Science (co-op),Engineering & Technology,5500000,Boston,Massachusetts,USA,North America,Co-Ed,https://www.northeastern.edu
+Tufts University,B.S. Biomedical Engineering,Engineering & Technology,5800000,Medford,Massachusetts,USA,North America,Co-Ed,https://www.tufts.edu
+Case Western Reserve University,B.S. Electrical Engineering,Engineering & Technology,5200000,Cleveland,Ohio,USA,North America,Co-Ed,https://www.case.edu
+George Washington University,M.S. Cybersecurity,Engineering & Technology,4500000,Washington DC,DC,USA,North America,Co-Ed,https://www.gwu.edu
+Georgetown University (McDonough),MBA,Management,8800000,Washington DC,DC,USA,North America,Co-Ed,https://www.mcdonough.georgetown.edu
+University of Bristol,B.Sc Computer Science,Engineering & Technology,3500000,Bristol,England,United Kingdom,Europe,Co-Ed,https://www.bristol.ac.uk
+University of Southampton,B.Eng Aeronautics,Engineering & Technology,3400000,Southampton,England,United Kingdom,Europe,Co-Ed,https://www.soton.ac.uk
+University of Leeds,B.Sc Data Science,Engineering & Technology,3300000,Leeds,England,United Kingdom,Europe,Co-Ed,https://www.leeds.ac.uk
+University of Nottingham,B.Sc Pharmacy,Medicine & Health,3300000,Nottingham,England,United Kingdom,Europe,Co-Ed,https://www.nottingham.ac.uk
+University of Glasgow,M.Sc Machine Learning,Engineering & Technology,3000000,Glasgow,Scotland,United Kingdom,Europe,Co-Ed,https://www.gla.ac.uk
+University of Birmingham,B.Com Accounting & Finance,Commerce & Finance,3300000,Birmingham,England,United Kingdom,Europe,Co-Ed,https://www.birmingham.ac.uk
+University of Sheffield,B.Eng Mechanical Engineering,Engineering & Technology,3300000,Sheffield,England,United Kingdom,Europe,Co-Ed,https://www.sheffield.ac.uk
+University of St Andrews,B.Sc Mathematics,Science & Research,3400000,St Andrews,Scotland,United Kingdom,Europe,Co-Ed,https://www.st-andrews.ac.uk
+Durham University,B.Sc Chemistry,Science & Research,3300000,Durham,England,United Kingdom,Europe,Co-Ed,https://www.dur.ac.uk
+University of Exeter,B.Sc Environmental Science,Science & Research,3000000,Exeter,England,United Kingdom,Europe,Co-Ed,https://www.exeter.ac.uk
+London Business School,MBA,Management,12000000,London,England,United Kingdom,Europe,Co-Ed,https://www.london.edu
+Cranfield University,M.S. Aerospace Engineering,Engineering & Technology,4000000,Cranfield,England,United Kingdom,Europe,Co-Ed,https://www.cranfield.ac.uk
+Simon Fraser University,B.Sc Software Systems,Engineering & Technology,2000000,Burnaby,British Columbia,Canada,North America,Co-Ed,https://www.sfu.ca
+University of Calgary,B.Sc Computer Science,Engineering & Technology,2000000,Calgary,Alberta,Canada,North America,Co-Ed,https://www.ucalgary.ca
+University of Alberta,B.Sc Mining Engineering,Engineering & Technology,2000000,Edmonton,Alberta,Canada,North America,Co-Ed,https://www.ualberta.ca
+Queen's University Canada,B.Sc Computer Science,Engineering & Technology,2200000,Kingston,Ontario,Canada,North America,Co-Ed,https://www.queensu.ca
+Western University Canada,B.Sc Medical Sciences,Medicine & Health,2100000,London,Ontario,Canada,North America,Co-Ed,https://www.uwo.ca
+Ottawa University,LLB,Law,2400000,Ottawa,Ontario,Canada,North America,Co-Ed,https://www.uottawa.ca
+Copenhagen Business School,MBA,Management,3500000,Copenhagen,Capital Region,Denmark,Europe,Co-Ed,https://www.cbs.dk
+University of Copenhagen,M.Sc Bioinformatics,Life Sciences,800000,Copenhagen,Capital Region,Denmark,Europe,Co-Ed,https://www.ku.dk
+Aalto University,M.Sc Computer Science,Engineering & Technology,1200000,Espoo,Uusimaa,Finland,Europe,Co-Ed,https://www.aalto.fi
+University of Helsinki,M.Sc Data Science,Engineering & Technology,800000,Helsinki,Uusimaa,Finland,Europe,Co-Ed,https://www.helsinki.fi
+Politecnico di Milano,B.Sc Architecture,Architecture & Design,1000000,Milan,Lombardy,Italy,Europe,Co-Ed,https://www.polimi.it
+Politecnico di Torino,M.Sc Mechanical Engineering,Engineering & Technology,800000,Turin,Piedmont,Italy,Europe,Co-Ed,https://www.polito.it
+University of Barcelona,M.Sc Biomedical Research,Medicine & Health,1200000,Barcelona,Catalonia,Spain,Europe,Co-Ed,https://www.ub.edu
+Complutense University of Madrid,B.Sc Computer Science,Engineering & Technology,500000,Madrid,Madrid,Spain,Europe,Co-Ed,https://www.ucm.es
+Ghent University,M.Sc Pharmaceutical Sciences,Medicine & Health,800000,Ghent,East Flanders,Belgium,Europe,Co-Ed,https://www.ugent.be
+University of Oslo,M.Sc Environmental Sciences,Science & Research,0,Oslo,Oslo,Norway,Europe,Co-Ed,https://www.uio.no
+Norwegian University of Science and Technology,M.Sc Marine Technology,Engineering & Technology,0,Trondheim,Trøndelag,Norway,Europe,Co-Ed,https://www.ntnu.no
+University of Porto,B.Sc Electrical Engineering,Engineering & Technology,300000,Porto,Norte,Portugal,Europe,Co-Ed,https://www.up.pt
+University of Lisbon,M.Sc Computer Science,Engineering & Technology,400000,Lisbon,Lisboa,Portugal,Europe,Co-Ed,https://www.ulisboa.pt
+AGH University Krakow,B.Sc Computer Science,Engineering & Technology,200000,Krakow,Lesser Poland,Poland,Europe,Co-Ed,https://www.agh.edu.pl
+Budapest University of Technology,M.Sc Software Engineering,Engineering & Technology,300000,Budapest,Central Hungary,Hungary,Europe,Co-Ed,https://www.bme.hu
+University of Zagreb,B.Eng Electrical Engineering,Engineering & Technology,250000,Zagreb,City of Zagreb,Croatia,Europe,Co-Ed,https://www.unizg.hr
+Yonsei University,B.S. Electrical Engineering,Engineering & Technology,700000,Seoul,Seoul,South Korea,Asia,Co-Ed,https://www.yonsei.ac.kr
+POSTECH Korea,M.S. AI,Engineering & Technology,500000,Pohang,North Gyeongsang,South Korea,Asia,Co-Ed,https://www.postech.ac.kr
+National Taiwan University,B.S. Computer Science,Engineering & Technology,300000,Taipei,Taipei,Taiwan,Asia,Co-Ed,https://www.ntu.edu.tw
+National Cheng Kung University,B.Eng Mechanical,Engineering & Technology,280000,Tainan,Tainan,Taiwan,Asia,Co-Ed,https://www.ncku.edu.tw
+University of Malaya,B.Sc Computer Science,Engineering & Technology,600000,Kuala Lumpur,KL,Malaysia,Asia,Co-Ed,https://www.um.edu.my
+Universiti Teknologi Malaysia,B.Eng Chemical,Engineering & Technology,500000,Johor Bahru,Johor,Malaysia,Asia,Co-Ed,https://www.utm.my
+Chulalongkorn University,MBA,Management,1500000,Bangkok,Bangkok,Thailand,Asia,Co-Ed,https://www.chula.ac.th
+Mahidol University,MBBS,Medicine & Health,1200000,Bangkok,Bangkok,Thailand,Asia,Co-Ed,https://www.mahidol.ac.th
+National University of Singapore - Medicine,MBBS,Medicine & Health,4000000,Singapore,Singapore,Singapore,Asia,Co-Ed,https://medicine.nus.edu.sg
+Waseda University,B.A. International Relations,Social Sciences,800000,Tokyo,Kanto,Japan,Asia,Co-Ed,https://www.waseda.jp
+Keio University,B.S. Economics,Commerce & Finance,850000,Tokyo,Kanto,Japan,Asia,Co-Ed,https://www.keio.ac.jp
+Shanghai Jiao Tong University,B.Eng Software Engineering,Engineering & Technology,500000,Shanghai,Shanghai,China,Asia,Co-Ed,https://www.sjtu.edu.cn
+Zhejiang University,M.Sc Environmental Engineering,Engineering & Technology,450000,Hangzhou,Zhejiang,China,Asia,Co-Ed,https://www.zju.edu.cn
+Chinese University of Hong Kong,BBA,Management,2000000,Hong Kong,Hong Kong,Hong Kong,Asia,Co-Ed,https://www.cuhk.edu.hk
+Indian Institute of Technology BHU,B.Tech Pharmaceutical,Medicine & Health,200000,Varanasi,Uttar Pradesh,India,North India,Co-Ed,https://www.iitbhu.ac.in
+Indian Institute of Technology BHU,B.Tech Metallurgy,Engineering & Technology,200000,Varanasi,Uttar Pradesh,India,North India,Co-Ed,https://www.iitbhu.ac.in
+American University of Beirut,B.Sc Computer Science,Engineering & Technology,2200000,Beirut,Beirut,Lebanon,Middle East,Co-Ed,https://www.aub.edu.lb
+King Abdulaziz University,B.Eng Mechanical,Engineering & Technology,0,Jeddah,Makkah,Saudi Arabia,Middle East,Co-Ed,https://www.kau.edu.sa
+King Abdullah University of Science and Technology (KAUST),M.S. Computer Science,Engineering & Technology,0,Thuwal,Makkah,Saudi Arabia,Middle East,Co-Ed,https://www.kaust.edu.sa
+Tel Aviv University,B.Sc Mathematics & Computer Science,Science & Research,700000,Tel Aviv,Tel Aviv,Israel,Middle East,Co-Ed,https://www.tau.ac.il
+Technion Israel Institute of Technology,B.Sc Computer Engineering,Engineering & Technology,750000,Haifa,Haifa,Israel,Middle East,Co-Ed,https://www.technion.ac.il
+University of Pretoria,B.Eng Electrical,Engineering & Technology,600000,Pretoria,Gauteng,South Africa,Africa,Co-Ed,https://www.up.ac.za
+Stellenbosch University,M.Sc Viticulture,Agriculture,500000,Stellenbosch,Western Cape,South Africa,Africa,Co-Ed,https://www.sun.ac.za
+American University in Cairo,B.Sc Computer Science,Engineering & Technology,1500000,Cairo,Cairo,Egypt,Africa,Co-Ed,https://www.aucegypt.edu
+University of Nairobi,B.Sc Engineering,Engineering & Technology,400000,Nairobi,Nairobi,Kenya,Africa,Co-Ed,https://www.uonbi.ac.ke
+University of Lagos,B.Sc Computer Science,Engineering & Technology,200000,Lagos,Lagos,Nigeria,Africa,Co-Ed,https://www.unilag.edu.ng
+O.P. Jindal Global University,BA LLB,Law,500000,Sonipat,Haryana,India,North India,Co-Ed,https://www.jgu.edu.in
+O.P. Jindal Global University,BBA,Management,450000,Sonipat,Haryana,India,North India,Co-Ed,https://www.jgu.edu.in
+Flame University,B.Sc Liberal Arts,Arts & Humanities,500000,Pune,Maharashtra,India,West India,Co-Ed,https://www.flame.edu.in
+Srishti Manipal Institute of Art,B.Des,Architecture & Design,350000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.srishtimanipalmit.ac.in
+Ambedkar University Delhi,B.A. Psychology,Social Sciences,40000,New Delhi,Delhi,India,North India,Co-Ed,https://www.aud.ac.in
+NLUD Delhi,B.A. LLB,Law,215000,New Delhi,Delhi,India,North India,Co-Ed,https://www.nludelhi.ac.in
+Symbiosis Law School Pune,BA LLB,Law,200000,Pune,Maharashtra,India,West India,Co-Ed,https://www.symlaw.ac.in
+School of Planning and Architecture Delhi,B.Arch,Architecture & Design,50000,New Delhi,Delhi,India,North India,Co-Ed,https://www.spa.ac.in
+SPA Bhopal,B.Arch,Architecture & Design,50000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.spabhopal.ac.in
+SPA Vijayawada,B.Arch,Architecture & Design,50000,Vijayawada,Andhra Pradesh,India,South India,Co-Ed,https://www.spav.ac.in
+CEPT University Ahmedabad,M.Arch Urban Design,Architecture & Design,180000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.cept.ac.in
+Tata Institute of Social Sciences Hyderabad,MSW,Social Sciences,55000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.tiss.edu/hyderabad
+Central University of Tamil Nadu,M.Sc Data Science,Engineering & Technology,30000,Thiruvarur,Tamil Nadu,India,South India,Co-Ed,https://www.cutn.ac.in
+Central University of Kerala,M.Sc Computational Biology,Life Sciences,28000,Kasaragod,Kerala,India,South India,Co-Ed,https://www.cukerala.ac.in
+Central University of Karnataka,M.A. Social Work,Social Sciences,25000,Kalaburagi,Karnataka,India,South India,Co-Ed,https://www.cuk.ac.in
+BITS Pilani Dubai Campus,B.E. CSE,Engineering & Technology,1000000,Dubai,Dubai,UAE,Middle East,Co-Ed,https://www.bits-dubai.ac.ae
+Manipal University Dubai,B.Tech Mechanical,Engineering & Technology,800000,Dubai,Dubai,UAE,Middle East,Co-Ed,https://www.manipaldubai.com
+Indian Institute of Technology Kharagpur,MBA (VGSoM),Management,1100000,Kharagpur,West Bengal,India,East India,Co-Ed,https://www.iitkgp.ac.in
+Indian Institute of Technology Bombay,M.Sc Chemistry,Science & Research,90000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.iitb.ac.in
+Indian Institute of Technology Delhi,M.Sc Physics,Science & Research,90000,New Delhi,Delhi,India,North India,Co-Ed,https://www.iitd.ac.in
+Indian Institute of Technology Madras,Ph.D Engineering Design,Research,30000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.iitm.ac.in
+International Institute of Information Technology Pune,B.Tech CSE,Engineering & Technology,250000,Pune,Maharashtra,India,West India,Co-Ed,https://www.isquareit.edu.in
+Woxsen University,BBA,Management,350000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.woxsen.edu.in
+Woxsen University,B.Tech CSE,Engineering & Technology,280000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.woxsen.edu.in
+Mahindra University,B.Tech CSE,Engineering & Technology,350000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.mahindraUniversity.ac.in
+XIM University,MBA,Management,1400000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.xim.edu.in
+Coimbatore Medical College,MBBS,Medicine & Health,550000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.coimbatoremedicalcollege.ac.in
+Government Rajaji Hospital & Madurai Medical College,MBBS,Medicine & Health,25000,Madurai,Tamil Nadu,India,South India,Co-Ed,https://www.mmc.ac.in
+Stanley Medical College,MBBS,Medicine & Health,25000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.stanleymedicalcollege.edu.in
+Kilpauk Medical College,MBBS,Medicine & Health,25000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.kmc.ac.in
+Government Medical College Thiruvananthapuram,MBBS,Medicine & Health,20000,Thiruvananthapuram,Kerala,India,South India,Co-Ed,https://www.gmct.ac.in
+Dr. MGR Medical University,B.Pharm,Medicine & Health,80000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.tnmgrmu.ac.in
+Bharathidasan University,M.Com,Commerce & Finance,18000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.bdu.ac.in
+Periyar University,MBA,Management,30000,Salem,Tamil Nadu,India,South India,Co-Ed,https://www.periyaruniversity.ac.in
+Government Arts College Coimbatore,B.Sc Mathematics,Science & Research,8000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.gac.edu.in
+PSG College of Arts and Science,B.Sc Computer Science,Science & Research,45000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.psgcas.ac.in
+Kongu Arts and Science College,B.Sc Information Technology,Engineering & Technology,40000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.konguarts.org
+Maharaja Arts and Science College,B.Com,Commerce & Finance,25000,Coimbatore,Tamil Nadu,India,South India,Men,https://www.maharajaartscience.ac.in
+Sri Ramakrishna Arts and Science College,M.Sc Physics,Science & Research,28000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.srasc.ac.in
+Hindusthan College of Arts and Science,B.B.A,Management,35000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.hcas.ac.in
+KGISL Institute of Technology,B.E. CSE,Engineering & Technology,110000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.kgislit.ac.in
+Rathinam College of Arts and Science,B.Sc Microbiology,Life Sciences,30000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.rathinam.in
+Park College of Engineering and Technology,B.E. Mechanical,Engineering & Technology,75000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.parkcollegeedu.in
+Sri Eshwar College of Engineering,B.E. EEE,Engineering & Technology,80000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.sece.ac.in
+Nandha Engineering College,B.E. CSE,Engineering & Technology,70000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.nandhaengg.org
+Erode Sengunthar Engineering College,B.E. ECE,Engineering & Technology,72000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.esec.ac.in
+Lieu Engineering College,B.E. Civil,Engineering & Technology,68000,Tiruppur,Tamil Nadu,India,South India,Co-Ed,https://www.lieuengg.ac.in
+Nandha College of Technology,B.E. Mechanical,Engineering & Technology,70000,Erode,Tamil Nadu,India,South India,Co-Ed,https://www.nandha.edu.in
+Mahendra Engineering College,B.E. CSE,Engineering & Technology,65000,Namakkal,Tamil Nadu,India,South India,Co-Ed,https://www.mahendra.edu.in
+Vivekanandha College of Engineering,B.E. EEE,Engineering & Technology,65000,Namakkal,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in/vce
+Sri Subramanya College of Engineering,B.E. Mechanical,Engineering & Technology,68000,Palani,Tamil Nadu,India,South India,Co-Ed,https://www.ssce.ac.in
+Jayaram College of Engineering and Technology,B.E. CSE,Engineering & Technology,68000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.jcet.ac.in
+K. Ramakrishnan College of Technology,B.E. ECE,Engineering & Technology,70000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.krct.ac.in
+Trichy Engineering College,B.E. Civil,Engineering & Technology,65000,Tiruchirappalli,Tamil Nadu,India,South India,Co-Ed,https://www.tec.ac.in
+Periyar Maniammai University,B.Tech CSE,Engineering & Technology,85000,Thanjavur,Tamil Nadu,India,South India,Co-Ed,https://www.pmu.edu
+Vinayaka Mission Research Foundation,MBBS,Medicine & Health,750000,Salem,Tamil Nadu,India,South India,Co-Ed,https://vmrf.edu.in
+Mysore Medical College,MBBS,Medicine & Health,500000,Mysuru,Karnataka,India,South India,Co-Ed,https://www.mmc.ac.in
+Shimoga Institute of Medical Sciences,MBBS,Medicine & Health,500000,Shivamogga,Karnataka,India,South India,Co-Ed,https://www.shimsims.ac.in
+Sri Siddhartha Medical College,MBBS,Medicine & Health,800000,Tumkur,Karnataka,India,South India,Co-Ed,https://www.ssmc.ac.in
+Adichunchanagiri Institute of Medical Sciences,MBBS,Medicine & Health,900000,Mandya,Karnataka,India,South India,Co-Ed,https://www.aims.ac.in
+PES Medical College Kuppam,MBBS,Medicine & Health,850000,Kuppam,Andhra Pradesh,India,South India,Co-Ed,https://www.pesimsr.pes.edu
+Bangalore Medical College,MBBS,Medicine & Health,500000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.bmcri.org
+SDM Medical College Dharwad,MBBS,Medicine & Health,900000,Dharwad,Karnataka,India,South India,Co-Ed,https://www.sdmcmsh.ac.in
+Kempegowda Institute of Medical Sciences,MBBS,Medicine & Health,1000000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.kimshealth.org
+Dr. B.R. Ambedkar Medical College,MBBS,Medicine & Health,750000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.abmc.ac.in
+Jamia Millia Islamia,B.Tech CSE,Engineering & Technology,90000,New Delhi,Delhi,India,North India,Co-Ed,https://www.jmi.ac.in
+Jamia Millia Islamia,M.A. Mass Communication,Media & Communication,40000,New Delhi,Delhi,India,North India,Co-Ed,https://www.jmi.ac.in
+University of Delhi PGDAV College,B.Com (Hons),Commerce & Finance,18000,New Delhi,Delhi,India,North India,Co-Ed,https://www.pgdavcollege.edu.in
+Sri Ram College of Commerce,B.Com (Hons),Commerce & Finance,22000,New Delhi,Delhi,India,North India,Co-Ed,https://www.srcc.edu
+Daulat Ram College Delhi,B.Sc Chemistry,Science & Research,18000,New Delhi,Delhi,India,North India,Women,https://www.dr.du.ac.in
+Gargi College Delhi,B.Sc Computer Science,Science & Research,18000,New Delhi,Delhi,India,North India,Women,https://www.gargi.du.ac.in
+Shaheed Bhagat Singh College,B.Com (Hons),Commerce & Finance,18000,New Delhi,Delhi,India,North India,Men,https://www.sbsc.du.ac.in
+IP University Delhi,B.Tech ECE,Engineering & Technology,170000,New Delhi,Delhi,India,North India,Co-Ed,https://www.ipu.ac.in
+Delhi Technological University,B.Tech CSE,Engineering & Technology,160000,New Delhi,Delhi,India,North India,Co-Ed,https://www.dtu.ac.in
+Delhi Technological University,M.Tech Thermal,Engineering & Technology,140000,New Delhi,Delhi,India,North India,Co-Ed,https://www.dtu.ac.in
+NSUT Delhi,B.Tech ECE,Engineering & Technology,155000,New Delhi,Delhi,India,North India,Co-Ed,https://www.nsut.ac.in
+IGDTUW Delhi,B.Tech IT,Engineering & Technology,155000,New Delhi,Delhi,India,North India,Women,https://www.igdtuw.ac.in
+SRM University Sonipat,B.Tech CSE,Engineering & Technology,200000,Sonipat,Haryana,India,North India,Co-Ed,https://www.srmuniversity.ac.in/sonipat
+Maharishi Dayanand University,B.Tech Mechanical,Engineering & Technology,80000,Rohtak,Haryana,India,North India,Co-Ed,https://www.mdu.ac.in
+Guru Jambheshwar University,B.Pharm,Medicine & Health,50000,Hisar,Haryana,India,North India,Co-Ed,https://www.gjust.ac.in
+IET Bhaddal,B.Tech CSE,Engineering & Technology,110000,Ropar,Punjab,India,North India,Co-Ed,https://www.ietbhaddal.edu.in
+CGC Landran,B.E. CSE,Engineering & Technology,120000,Mohali,Punjab,India,North India,Co-Ed,https://www.cgc.ac.in
+IKG Punjab Technical University,B.Tech IT,Engineering & Technology,85000,Kapurthala,Punjab,India,North India,Co-Ed,https://www.ptu.ac.in
+Swami Vivekanand Subharti University,MBBS,Medicine & Health,700000,Meerut,Uttar Pradesh,India,North India,Co-Ed,https://subhartiuniversity.edu.in
+Sharda University,B.Tech CSE,Engineering & Technology,180000,Greater Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.sharda.ac.in
+Bennett University,B.Tech CSE,Engineering & Technology,240000,Greater Noida,Uttar Pradesh,India,North India,Co-Ed,https://www.bennett.edu.in
+SVNIT Surat,B.Tech Mechanical,Engineering & Technology,150000,Surat,Gujarat,India,West India,Co-Ed,https://www.svnit.ac.in
+Entrepreneurship Development Institute,MBA Entrepreneurship,Management,300000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.ediindia.org
+Sardar Vallabhbhai Patel Institute of Technology,B.E. CSE,Engineering & Technology,90000,Anand,Gujarat,India,West India,Co-Ed,https://www.svit.ac.in
+Government Engineering College Gandhinagar,B.E. Mechanical,Engineering & Technology,25000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.gecg28.ac.in
+L.D. College of Engineering,B.E. Civil,Engineering & Technology,25000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.ldce.ac.in
+G.H. Patel College of Engineering,B.E. ECE,Engineering & Technology,85000,Anand,Gujarat,India,West India,Co-Ed,https://www.gcet.ac.in
+Shrimad Rajchandra Institute,B.Sc Yoga & Wellness,Life Sciences,120000,Dharampur,Gujarat,India,West India,Co-Ed,https://www.sri.ac.in
+Symbiosis Skills & Professional University,B.Voc Software Development,Engineering & Technology,150000,Pune,Maharashtra,India,West India,Co-Ed,https://www.sspu.ac.in
+Indira Gandhi Institute of Development Research,M.Sc Economics,Social Sciences,40000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.igidr.ac.in
+Somaiya Vidyavihar University,B.Sc Data Science,Engineering & Technology,160000,Mumbai,Maharashtra,India,West India,Co-Ed,https://somaiya.edu
+Pillai College of Engineering,B.E. IT,Engineering & Technology,120000,Navi Mumbai,Maharashtra,India,West India,Co-Ed,https://www.pce.ac.in
+Fr. C. Rodrigues Institute of Technology,B.E. Mechanical,Engineering & Technology,110000,Navi Mumbai,Maharashtra,India,West India,Co-Ed,https://www.fcrit.ac.in
+Thakur College of Engineering,B.E. CSE,Engineering & Technology,125000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.tcet.ac.in
+Thadomal Shahani Engineering College,B.E. IT,Engineering & Technology,130000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.tsec.edu
+Don Bosco Institute of Technology Mumbai,B.E. ECE,Engineering & Technology,120000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.dbit.in
+Sardar Patel College of Engineering,B.E. Mechanical,Engineering & Technology,115000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.spce.ac.in
+Vellore Institute of Technology Bhopal,B.Tech CSE,Engineering & Technology,180000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.vitbhopal.ac.in
+Oriental Institute of Science and Technology,B.Tech IT,Engineering & Technology,85000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.orientaluniversity.in
+Berhampur University,B.Sc Physics,Science & Research,15000,Berhampur,Odisha,India,East India,Co-Ed,https://www.bamu.ac.in
+Sambalpur University,M.Sc Biotechnology,Life Sciences,22000,Sambalpur,Odisha,India,East India,Co-Ed,https://www.suniv.ac.in
+Sister Nivedita University,B.Tech CSE,Engineering & Technology,100000,Kolkata,West Bengal,India,East India,Women,https://www.snuniversity.ac.in
+Adamas University,B.Tech AI,Engineering & Technology,120000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.adamasuniversity.ac.in
+Brainware University,B.Tech CSE,Engineering & Technology,95000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.brainwareuniversity.ac.in
+University of Engineering and Management Kolkata,B.Tech Mechanical,Engineering & Technology,110000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.uem.edu.in
+Future Institute of Engineering and Management,B.Tech ECE,Engineering & Technology,95000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.fiem.edu.in
+Techno Main Salt Lake,B.Tech CSE,Engineering & Technology,90000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.technomain.edu.in
+B.P. Poddar Institute of Management & Technology,B.E. CSE,Engineering & Technology,85000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.bppimt.ac.in
+Narula Institute of Technology,B.Tech IT,Engineering & Technology,90000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.nit.ac.in
+Institute of Engineering & Management Kolkata,B.E. ECE,Engineering & Technology,90000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.iemcal.com
+University of Auckland,M.Sc Information Technology,Engineering & Technology,2400000,Auckland,Auckland,New Zealand,Oceania,Co-Ed,https://www.auckland.ac.nz
+Macquarie University,M.S. Computing,Engineering & Technology,2600000,Sydney,New South Wales,Australia,Oceania,Co-Ed,https://www.mq.edu.au
+University of Technology Sydney,B.Eng Software,Engineering & Technology,2800000,Sydney,New South Wales,Australia,Oceania,Co-Ed,https://www.uts.edu.au
+Deakin University,M.S. Cyber Security,Engineering & Technology,2500000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.deakin.edu.au
+University of Western Australia,B.Sc Marine Science,Life Sciences,2800000,Perth,Western Australia,Australia,Oceania,Co-Ed,https://www.uwa.edu.au
+Auckland University of Technology,MBA,Management,3000000,Auckland,Auckland,New Zealand,Oceania,Co-Ed,https://www.aut.ac.nz
+La Trobe University,B.Sc Genetics,Life Sciences,2400000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.latrobe.edu.au
+Uppsala University,M.Sc Computer Science,Engineering & Technology,700000,Uppsala,Uppsala,Sweden,Europe,Co-Ed,https://www.uu.se
+TU Wien,M.S. Electrical Engineering,Engineering & Technology,250000,Vienna,Vienna,Austria,Europe,Co-Ed,https://www.tuwien.at
+University of Zurich,M.Sc Neuroscience,Life Sciences,1000000,Zurich,Zurich,Switzerland,Europe,Co-Ed,https://www.uzh.ch
+Sorbonne University,M.Sc Physics,Science & Research,500000,Paris,Île-de-France,France,Europe,Co-Ed,https://www.sorbonne-universite.fr
+Sciences Po Paris,M.A. International Affairs,Social Sciences,2200000,Paris,Île-de-France,France,Europe,Co-Ed,https://www.sciencespo.fr
+University of Bologna,M.Sc Computer Engineering,Engineering & Technology,400000,Bologna,Emilia-Romagna,Italy,Europe,Co-Ed,https://www.unibo.it
+University of Padova,M.Sc Biomedical Engineering,Engineering & Technology,350000,Padova,Veneto,Italy,Europe,Co-Ed,https://www.unipd.it
+Eindhoven University of Technology,M.Sc Electrical Engineering,Engineering & Technology,1800000,Eindhoven,North Brabant,Netherlands,Europe,Co-Ed,https://www.tue.nl
+University of Groningen,M.Sc Astronomy,Science & Research,1000000,Groningen,Groningen,Netherlands,Europe,Co-Ed,https://www.rug.nl
+Chalmers University of Technology,M.Sc Automotive Engineering,Engineering & Technology,1000000,Gothenburg,Västra Götaland,Sweden,Europe,Co-Ed,https://www.chalmers.se
+Helsinki School of Economics (Aalto BIZ),MBA,Management,2000000,Helsinki,Uusimaa,Finland,Europe,Co-Ed,https://www.aalto.fi/en/aalto-university-school-of-business
+Warsaw University of Technology,B.Eng Computer Science,Engineering & Technology,200000,Warsaw,Masovian,Poland,Europe,Co-Ed,https://www.pw.edu.pl
+Jagiellonian University,M.Sc Biotechnology,Life Sciences,250000,Krakow,Lesser Poland,Poland,Europe,Co-Ed,https://www.uj.edu.pl
+Czech Technical University,M.Sc Software Engineering,Engineering & Technology,250000,Prague,Bohemia,Czech Republic,Europe,Co-Ed,https://www.cvut.cz
+University of Ljubljana,B.Sc Electrical Engineering,Engineering & Technology,150000,Ljubljana,Ljubljana,Slovenia,Europe,Co-Ed,https://www.uni-lj.si
+Bilkent University,B.S. Computer Engineering,Engineering & Technology,1200000,Ankara,Ankara,Turkey,Europe,Co-Ed,https://www.bilkent.edu.tr
+Koç University,MBA,Management,2500000,Istanbul,Istanbul,Turkey,Europe,Co-Ed,https://www.ku.edu.tr
+Indian Institute of Technology Mandi,B.Tech CSE,Engineering & Technology,200000,Mandi,Himachal Pradesh,India,North India,Co-Ed,https://www.iitmandi.ac.in
+Indian Institute of Technology Gandhinagar,B.Tech Chemical,Engineering & Technology,200000,Gandhinagar,Gujarat,India,West India,Co-Ed,https://www.iitgn.ac.in
+Indian Institute of Technology Ropar,B.Tech Mechanical,Engineering & Technology,200000,Ropar,Punjab,India,North India,Co-Ed,https://www.iitrpr.ac.in
+Indian Institute of Technology Patna,B.Tech CSE,Engineering & Technology,200000,Patna,Bihar,India,East India,Co-Ed,https://www.iitp.ac.in
+Indian Institute of Technology Jodhpur,B.Tech CSE,Engineering & Technology,200000,Jodhpur,Rajasthan,India,North India,Co-Ed,https://www.iitj.ac.in
+Indian Institute of Technology (ISM) Dhanbad,B.Tech Mining,Engineering & Technology,200000,Dhanbad,Jharkhand,India,East India,Co-Ed,https://www.iitism.ac.in
+NIT Bhopal,B.Tech CSE,Engineering & Technology,150000,Bhopal,Madhya Pradesh,India,Central India,Co-Ed,https://www.manit.ac.in
+NIT Agartala,B.Tech ECE,Engineering & Technology,140000,Agartala,Tripura,India,North East India,Co-Ed,https://www.nita.ac.in
+NIT Arunachal Pradesh,B.Tech CSE,Engineering & Technology,140000,Yupia,Arunachal Pradesh,India,North East India,Co-Ed,https://www.nitap.ac.in
+NIT Manipur,B.Tech ECE,Engineering & Technology,140000,Imphal,Manipur,India,North East India,Co-Ed,https://www.nitmanipur.ac.in
+NIT Mizoram,B.Tech Civil,Engineering & Technology,140000,Aizawl,Mizoram,India,North East India,Co-Ed,https://www.nitmz.ac.in
+NIT Nagaland,B.Tech CSE,Engineering & Technology,140000,Dimapur,Nagaland,India,North East India,Co-Ed,https://www.nitnagaland.ac.in
+NIT Sikkim,B.Tech ECE,Engineering & Technology,140000,Ravangla,Sikkim,India,North East India,Co-Ed,https://www.nitsikkim.ac.in
+NIT Srinagar,B.Tech CSE,Engineering & Technology,140000,Srinagar,J&K,India,North India,Co-Ed,https://www.nitsri.ac.in
+NIT Uttarakhand,B.Tech Mechanical,Engineering & Technology,140000,Srinagar,Uttarakhand,India,North India,Co-Ed,https://www.nituk.ac.in
+NIT Andhra Pradesh,B.Tech CSE,Engineering & Technology,150000,Tadepalligudem,Andhra Pradesh,India,South India,Co-Ed,https://www.nitandhra.ac.in
+NIT Delhi,B.Tech ECE,Engineering & Technology,150000,New Delhi,Delhi,India,North India,Co-Ed,https://www.nitdelhi.ac.in
+NIT Goa,B.Tech CSE,Engineering & Technology,150000,Goa,Goa,India,West India,Co-Ed,https://www.nitgoa.ac.in
+NIT Puducherry,B.Tech IT,Engineering & Technology,150000,Puducherry,Puducherry,India,South India,Co-Ed,https://www.nitpy.ac.in
+Seoul National University of Science and Technology,B.S. Industrial Design,Architecture & Design,450000,Seoul,Seoul,South Korea,Asia,Co-Ed,https://www.seoultech.ac.kr
+Indian School of Business,Executive PGP,Management,4500000,Mohali,Punjab,India,North India,Co-Ed,https://www.isb.edu/mohali
+Symbiosis Centre for Information Technology,MBA IT,Management,680000,Pune,Maharashtra,India,West India,Co-Ed,https://www.scit.edu
+Great Lakes Institute (Delhi),PGDM,Management,1700000,Gurgaon,Haryana,India,North India,Co-Ed,https://www.greatlakes.edu.in/delhi
+Fore School of Management,PGDM,Management,1500000,New Delhi,Delhi,India,North India,Co-Ed,https://www.fsm.ac.in
+IMI Delhi,PGDM,Management,1600000,New Delhi,Delhi,India,North India,Co-Ed,https://www.imi.edu
+IMT Ghaziabad,PGDM,Management,1650000,Ghaziabad,Uttar Pradesh,India,North India,Co-Ed,https://www.imt.edu
+Lal Bahadur Shastri Institute of Management,PGDM,Management,1300000,New Delhi,Delhi,India,North India,Co-Ed,https://www.lbsim.ac.in
+Nirma University (Institute of Management),MBA,Management,550000,Ahmedabad,Gujarat,India,West India,Co-Ed,https://www.nirmauni.ac.in/imnu
+Jamnalal Bajaj Institute,MMS,Management,200000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.jbims.edu
+Sydenham Institute of Management,MMS,Management,180000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.simsr.somaiya.edu
+Xavier Institute of Management Bhubaneswar,MBA,Management,1300000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.ximb.ac.in
+Kamaraj College of Engineering and Technology,B.E. CSE,Engineering & Technology,72000,Virudhunagar,Tamil Nadu,India,South India,Co-Ed,https://www.kamarajengg.edu.in
+Kalasalingam Academy of Research and Education,B.Tech CSE,Engineering & Technology,90000,Srivilliputhur,Tamil Nadu,India,South India,Co-Ed,https://www.kalasalingam.ac.in
+Einstein College of Engineering,B.E. ECE,Engineering & Technology,68000,Tirunelveli,Tamil Nadu,India,South India,Co-Ed,https://www.einsteincollege.ac.in
+SCAD College of Engineering and Technology,B.E. Mechanical,Engineering & Technology,70000,Tirunelveli,Tamil Nadu,India,South India,Co-Ed,https://www.scadengineering.ac.in
+V.S.B. Engineering College,B.E. CSE,Engineering & Technology,65000,Karur,Tamil Nadu,India,South India,Co-Ed,https://www.vsb.edu.in
+E.G.S. Pillay Engineering College,B.E. EEE,Engineering & Technology,68000,Nagapattinam,Tamil Nadu,India,South India,Co-Ed,https://www.egspec.org
+Government College of Engineering Thanjavur,B.E. Civil,Engineering & Technology,20000,Thanjavur,Tamil Nadu,India,South India,Co-Ed,https://www.gcetly.ac.in
+St. Xavier's Catholic College of Engineering,B.E. ECE,Engineering & Technology,72000,Kanyakumari,Tamil Nadu,India,South India,Co-Ed,https://www.sxcce.edu.in
+Annai Mathammal Sheela Engineering College,B.E. CSE,Engineering & Technology,65000,Namakkal,Tamil Nadu,India,South India,Women,https://www.amse.ac.in
+GRT Institute of Engineering and Technology,B.E. Mechanical,Engineering & Technology,68000,Tiruttani,Tamil Nadu,India,South India,Co-Ed,https://www.grtiet.ac.in
+Gokaraju Rangaraju Institute,B.Tech CSE,Engineering & Technology,130000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.griet.ac.in
+Chaitanya Bharathi Institute of Technology,B.Tech ECE,Engineering & Technology,120000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.cbit.ac.in
+Maturi Venkata Subba Rao Engineering College,B.Tech Civil,Engineering & Technology,110000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.mvsr.edu.in
+SR Engineering College,B.Tech CSE,Engineering & Technology,100000,Warangal,Telangana,India,South India,Co-Ed,https://www.srec.ac.in
+Vardhaman College of Engineering,B.Tech IT,Engineering & Technology,110000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.vardhaman.org
+Malla Reddy Engineering College,B.Tech CSE,Engineering & Technology,120000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.mrec.ac.in
+Bapatla Engineering College,B.Tech ECE,Engineering & Technology,85000,Bapatla,Andhra Pradesh,India,South India,Co-Ed,https://www.bec-bapatla.ac.in
+QIS College of Engineering,B.Tech CSE,Engineering & Technology,80000,Ongole,Andhra Pradesh,India,South India,Co-Ed,https://www.qiscet.edu.in
+Sri Vasavi Engineering College,B.Tech ECE,Engineering & Technology,90000,Tadepalligudem,Andhra Pradesh,India,South India,Co-Ed,https://www.srivasaviengg.ac.in
+GMR Institute of Technology,B.Tech CSE,Engineering & Technology,100000,Rajam,Andhra Pradesh,India,South India,Co-Ed,https://www.gmrit.edu.in
+New Horizon College of Engineering,B.E. CSE,Engineering & Technology,130000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.newhorizonindia.edu
+Oxford College of Engineering,B.E. Mechanical,Engineering & Technology,110000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.oxfordengg.ac.in
+Sir MVIT,B.E. ECE,Engineering & Technology,120000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.sirmvit.edu
+Global Academy of Technology,B.E. CSE,Engineering & Technology,110000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.gat.ac.in
+T. John College of Engineering,B.E. IT,Engineering & Technology,100000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.tjohncollegebangalore.com
+Federal Institute of Science and Technology,B.Tech ECE,Engineering & Technology,100000,Ernakulam,Kerala,India,South India,Co-Ed,https://www.fisat.ac.in
+Toc H Institute of Science and Technology,B.Tech Mechanical,Engineering & Technology,95000,Ernakulam,Kerala,India,South India,Co-Ed,https://www.tistcochin.edu.in
+Jyothi Engineering College,B.Tech CSE,Engineering & Technology,90000,Thrissur,Kerala,India,South India,Co-Ed,https://www.jyothiengg.ac.in
+Malabar College of Engineering and Technology,B.Tech ECE,Engineering & Technology,80000,Calicut,Kerala,India,South India,Co-Ed,https://www.mcet.in
+Sree Narayana Gurukulam College of Engineering,B.Tech Mechanical,Engineering & Technology,85000,Ernakulam,Kerala,India,South India,Co-Ed,https://www.sngce.ac.in
+ABES Engineering College,B.Tech CSE,Engineering & Technology,100000,Ghaziabad,Uttar Pradesh,India,North India,Co-Ed,https://www.abes.ac.in
+Ajay Kumar Garg Engineering College,B.Tech IT,Engineering & Technology,95000,Ghaziabad,Uttar Pradesh,India,North India,Co-Ed,https://www.akgec.ac.in
+Kiet Group of Institutions,B.Tech CSE,Engineering & Technology,110000,Ghaziabad,Uttar Pradesh,India,North India,Co-Ed,https://www.kiet.edu
+HMR Institute of Technology,B.Tech ECE,Engineering & Technology,90000,New Delhi,Delhi,India,North India,Co-Ed,https://www.hmritm.ac.in
+Maharaja Surajmal Institute of Technology,B.Tech CSE,Engineering & Technology,95000,New Delhi,Delhi,India,North India,Co-Ed,https://www.msit.in
+Bhagwan Parshuram Institute of Technology,B.Tech IT,Engineering & Technology,90000,New Delhi,Delhi,India,North India,Co-Ed,https://www.bpitindia.com
+Vivekananda Institute of Professional Studies,B.Tech CSE,Engineering & Technology,90000,New Delhi,Delhi,India,North India,Co-Ed,https://www.vips.edu
+G.B. Pant Government Engineering College,B.Tech CSE,Engineering & Technology,20000,New Delhi,Delhi,India,North India,Co-Ed,https://www.gbpec.ac.in
+K.J. Somaiya College of Science and Commerce,B.Sc IT,Engineering & Technology,90000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.kjsieit.somaiya.edu
+Watumull Institute,B.Sc IT,Engineering & Technology,70000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.watumull.edu
+Vivekanand Education Society's Institute of Technology,B.E. CSE,Engineering & Technology,105000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.vesit.ves.ac.in
+Vidyalankar Institute of Technology,B.E. Mechanical,Engineering & Technology,110000,Mumbai,Maharashtra,India,West India,Co-Ed,https://vit.edu.in
+RAIT Mumbai,B.E. ECE,Engineering & Technology,100000,Navi Mumbai,Maharashtra,India,West India,Co-Ed,https://www.rait.ac.in
+Bharati Vidyapeeth College of Engineering Navi Mumbai,B.E. IT,Engineering & Technology,100000,Navi Mumbai,Maharashtra,India,West India,Co-Ed,https://www.bvcoenm.edu.in
+Meghnad Saha Institute of Technology,B.Tech CSE,Engineering & Technology,95000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.msit.edu.in
+RCC Institute of Information Technology,B.Tech IT,Engineering & Technology,90000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.rcciit.org
+Dumkal Institute of Engineering and Technology,B.Tech ECE,Engineering & Technology,80000,Murshidabad,West Bengal,India,East India,Co-Ed,https://www.diet.ac.in
+Gurunanak Institute of Technology,B.Tech CSE,Engineering & Technology,85000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.gnit.ac.in
+Netaji Subhash Engineering College,B.Tech Mechanical,Engineering & Technology,80000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.nsec.ac.in
+Symbiosis College of Arts and Commerce,B.Com,Commerce & Finance,60000,Pune,Maharashtra,India,West India,Co-Ed,https://www.symbiosiscollege.edu.in
+H.R. College of Commerce Mumbai,B.Com (Hons),Commerce & Finance,30000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.hrcollege.edu
+K.C. College Mumbai,B.Sc Computer Science,Science & Research,35000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.kccollege.edu.in
+Ramnarain Ruia College,B.Sc Physics,Science & Research,28000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.ruiacollege.edu
+Wilson College Mumbai,B.Sc Chemistry,Science & Research,25000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.wilsoncollege.edu
+St. Xavier's College Mumbai,B.Sc Mathematics,Science & Research,40000,Mumbai,Maharashtra,India,West India,Co-Ed,https://www.xaviers.edu
+MCC College Chennai,B.Com,Commerce & Finance,40000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.mcc.edu.in
+Nizam College Hyderabad,B.Sc Statistics,Science & Research,15000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.nizamcollege.ac.in
+Fergusson College Pune,B.A. Economics,Social Sciences,20000,Pune,Maharashtra,India,West India,Co-Ed,https://www.fergusson.edu
+St. Joseph's College Bengaluru,B.Sc Computer Science,Science & Research,50000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.sjc.ac.in
+Universidad de los Andes,B.S. Systems Engineering,Engineering & Technology,1000000,Bogotá,Cundinamarca,Colombia,South America,Co-Ed,https://www.uniandes.edu.co
+University of São Paulo,B.Eng Computer Engineering,Engineering & Technology,0,São Paulo,São Paulo,Brazil,South America,Co-Ed,https://www.usp.br
+ITAM Mexico,B.S. Computer Science,Engineering & Technology,1200000,Mexico City,CDMX,Mexico,North America,Co-Ed,https://www.itam.mx
+UNAM Mexico,M.Sc Biomedical Engineering,Engineering & Technology,200000,Mexico City,CDMX,Mexico,North America,Co-Ed,https://www.unam.mx
+Pontificia Universidad Católica de Chile,MBA,Management,1800000,Santiago,Metropolitana,Chile,South America,Co-Ed,https://www.uc.cl
+University of Buenos Aires,M.Sc Statistics,Science & Research,0,Buenos Aires,Buenos Aires,Argentina,South America,Co-Ed,https://www.uba.ar
+Stellenbosch Business School,MBA,Management,1500000,Cape Town,Western Cape,South Africa,Africa,Co-Ed,https://www.usb.ac.za
+University of Ghana,B.Sc Computer Science,Engineering & Technology,250000,Accra,Greater Accra,Ghana,Africa,Co-Ed,https://www.ug.edu.gh
+University of Cape Town Graduate School of Business,MBA,Management,2000000,Cape Town,Western Cape,South Africa,Africa,Co-Ed,https://www.gsb.uct.ac.za
+IIT Jammu,B.Tech ECE,Engineering & Technology,200000,Jammu,J&K,India,North India,Co-Ed,https://www.iitjammu.ac.in
+IIT Bhilai,B.Tech Electrical,Engineering & Technology,200000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.iitbhilai.ac.in
+Indian Institute of Information Technology Allahabad,B.Tech IT,Engineering & Technology,280000,Prayagraj,Uttar Pradesh,India,North India,Co-Ed,https://www.iiita.ac.in
+Indian Institute of Information Technology Design and Manufacturing,B.Tech Mechanical,Engineering & Technology,250000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.iiitdm.ac.in
+Indian Institute of Information Technology Kota,B.Tech CSE,Engineering & Technology,250000,Kota,Rajasthan,India,North India,Co-Ed,https://www.iiitkota.ac.in
+Indian Institute of Information Technology Vadodara,B.Tech CSE,Engineering & Technology,250000,Vadodara,Gujarat,India,West India,Co-Ed,https://www.iiitvadodara.ac.in
+Indian Institute of Information Technology Lucknow,B.Tech ECE,Engineering & Technology,250000,Lucknow,Uttar Pradesh,India,North India,Co-Ed,https://www.iiitl.ac.in
+Indian Institute of Information Technology Nagpur,B.Tech CSE,Engineering & Technology,250000,Nagpur,Maharashtra,India,West India,Co-Ed,https://www.iiitn.ac.in
+Indian Institute of Information Technology Naya Raipur,B.Tech IT,Engineering & Technology,250000,Raipur,Chhattisgarh,India,Central India,Co-Ed,https://www.iiitnr.ac.in
+Indian Institute of Information Technology Pune,B.Tech CSE,Engineering & Technology,250000,Pune,Maharashtra,India,West India,Co-Ed,https://www.iiitp.ac.in
+Loughborough University,B.Eng Chemical Engineering,Engineering & Technology,3200000,Loughborough,England,United Kingdom,Europe,Co-Ed,https://www.lboro.ac.uk
+University of Bath,B.Sc Mathematics,Science & Research,3100000,Bath,England,United Kingdom,Europe,Co-Ed,https://www.bath.ac.uk
+University of Leicester,B.Sc Genetics,Life Sciences,2900000,Leicester,England,United Kingdom,Europe,Co-Ed,https://www.le.ac.uk
+Queen Mary University London,B.S. Computer Science,Engineering & Technology,3100000,London,England,United Kingdom,Europe,Co-Ed,https://www.qmul.ac.uk
+Brunel University London,B.Eng Mechanical Engineering,Engineering & Technology,2800000,London,England,United Kingdom,Europe,Co-Ed,https://www.brunel.ac.uk
+University of Reading,B.Sc Meteorology,Science & Research,2800000,Reading,England,United Kingdom,Europe,Co-Ed,https://www.reading.ac.uk
+University of East Anglia,B.Sc Environmental Sciences,Science & Research,2700000,Norwich,England,United Kingdom,Europe,Co-Ed,https://www.uea.ac.uk
+Lancaster University,B.Sc Computer Science,Engineering & Technology,2900000,Lancaster,England,United Kingdom,Europe,Co-Ed,https://www.lancaster.ac.uk
+University of Sussex,M.Sc AI & Robotics,Engineering & Technology,2800000,Brighton,England,United Kingdom,Europe,Co-Ed,https://www.sussex.ac.uk
+Swansea University,B.Eng Aerospace Engineering,Engineering & Technology,2500000,Swansea,Wales,United Kingdom,Europe,Co-Ed,https://www.swansea.ac.uk
+University of Aberdeen,M.Sc Petroleum Engineering,Engineering & Technology,3000000,Aberdeen,Scotland,United Kingdom,Europe,Co-Ed,https://www.abdn.ac.uk
+Heriot-Watt University,B.Sc Actuarial Mathematics,Commerce & Finance,2800000,Edinburgh,Scotland,United Kingdom,Europe,Co-Ed,https://www.hw.ac.uk
+University of Stirling,M.Sc Finance,Commerce & Finance,2700000,Stirling,Scotland,United Kingdom,Europe,Co-Ed,https://www.stir.ac.uk
+Ryerson University,B.Eng Aerospace,Engineering & Technology,2200000,Toronto,Ontario,Canada,North America,Co-Ed,https://www.ryerson.ca
+Carleton University,B.Eng Systems and Computer Engineering,Engineering & Technology,2000000,Ottawa,Ontario,Canada,North America,Co-Ed,https://www.carleton.ca
+University of Victoria,B.Sc Computer Science,Engineering & Technology,1800000,Victoria,British Columbia,Canada,North America,Co-Ed,https://www.uvic.ca
+Griffith University,B.Sc Criminology,Social Sciences,2200000,Brisbane,Queensland,Australia,Oceania,Co-Ed,https://www.griffith.edu.au
+University of Wollongong,M.Eng Civil Engineering,Engineering & Technology,2400000,Wollongong,New South Wales,Australia,Oceania,Co-Ed,https://www.uow.edu.au
+Swinburne University of Technology,B.Eng Software,Engineering & Technology,2600000,Melbourne,Victoria,Australia,Oceania,Co-Ed,https://www.swinburne.edu.au
+Manipal Institute of Management,MBA,Management,350000,Manipal,Karnataka,India,South India,Co-Ed,https://www.manipal.edu/mim.html
+PESIT South Campus Bengaluru,MBA,Management,280000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.pes.edu
+Symbiosis Institute of Management Studies,MBA Defence,Management,350000,Pune,Maharashtra,India,West India,Co-Ed,https://www.sims.edu
+IMI Bhubaneswar,PGDM,Management,1200000,Bhubaneswar,Odisha,India,East India,Co-Ed,https://www.imi.edu/bhubaneswar
+IMI Kolkata,PGDM,Management,1250000,Kolkata,West Bengal,India,East India,Co-Ed,https://www.imi.edu/kolkata
+IFIM Business School,PGDM,Management,1000000,Bengaluru,Karnataka,India,South India,Co-Ed,https://www.ifimbschool.com
+Amrita School of Business,MBA,Management,650000,Coimbatore,Tamil Nadu,India,South India,Co-Ed,https://www.amrita.edu/school/business
+VIT Business School Chennai,MBA,Management,300000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.vit.ac.in/mba
+Loyola Institute of Business Administration,PGDM,Management,900000,Chennai,Tamil Nadu,India,South India,Co-Ed,https://www.liba.edu
+GITAM School of Business,MBA,Management,350000,Hyderabad,Telangana,India,South India,Co-Ed,https://www.gitam.edu/gsb
+University of Strathclyde,M.Sc Business Analysis,Management,3000000,Glasgow,Scotland,United Kingdom,Europe,Co-Ed,https://www.strath.ac.uk
+Aston University,B.Sc Computer Science (placement),Engineering & Technology,3000000,Birmingham,England,United Kingdom,Europe,Co-Ed,https://www.aston.ac.uk
+University of Surrey,B.Sc Biochemistry,Life Sciences,2900000,Guildford,England,United Kingdom,Europe,Co-Ed,https://www.surrey.ac.uk
+University of Dundee,B.Sc Accounting & Finance,Commerce & Finance,2700000,Dundee,Scotland,United Kingdom,Europe,Co-Ed,https://www.dundee.ac.uk
+Bond University,MBA,Management,3000000,Gold Coast,Queensland,Australia,Oceania,Co-Ed,https://www.bond.edu.au
+University of Manitoba,B.Sc Computer Science,Engineering & Technology,1500000,Winnipeg,Manitoba,Canada,North America,Co-Ed,https://www.umanitoba.ca
+Ritsumeikan University,B.A. International Relations,Social Sciences,750000,Kyoto,Kansai,Japan,Asia,Co-Ed,https://www.ritsumei.ac.jp
+Korea University,B.S. Business Administration,Management,700000,Seoul,Seoul,South Korea,Asia,Co-Ed,https://www.korea.ac.kr
